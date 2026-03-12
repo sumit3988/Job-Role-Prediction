@@ -1,0 +1,1201 @@
+Degree,Major,Skills,Certifications,GPA,Internship_Experience,Number_of_Projects,Job_Role
+M.Tech,Electronics,"C++, Deep Learning, Machine Learning, PHP, Python, SQL, TensorFlow",Google Cloud,7.53,1.0,5,AI Engineer
+B.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,7.49,0.0,2,Cloud Engineer
+M.Tech,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",AWS,8.69,1.0,1,AI Engineer
+B.Tech,Computer Science,"C++, JavaScript, SQL",AWS,7.0,1.0,4,Software Developer
+M.Tech,Computer Science,"Docker, Git, Java, Kubernetes, Linux",Google Cloud,7.48,0.0,3,DevOps Engineer
+MCA,Information Technology,"AWS, Azure, Docker, Linux",AWS,7.53,3.0,2,Cloud Engineer
+M.Tech,Information Technology,"AWS, PHP, Python, SQL",AWS,9.87,1.0,6,Data Scientist
+B.E,Data Science,"C++, Java, JavaScript, MongoDB, Python, SQL",Cisco,7.67,3.0,4,Software Developer
+B.Tech,Computer Science,"AWS, Azure, C++, Kubernetes, Linux, Machine Learning",AWS,7.19,1.0,1,Cloud Engineer
+MCA,Computer Science,"Git, Java, JavaScript, Node.js, PHP, React",None,6.6,2.0,4,Frontend Developer
+B.Tech,Electronics,"Machine Learning, MongoDB, Node.js, Python, SQL, TensorFlow",Google Cloud,7.97,2.0,3,Backend Developer
+B.Sc,Computer Science,"Docker, Git, JavaScript, Kubernetes, Node.js, React",None,6.29,0.0,6,Frontend Developer
+B.Tech,Computer Science,"Git, Python, SQL",Azure,8.17,1.0,3,Backend Developer
+B.Tech,Data Science,"AWS, Azure, C++, Git, Java, JavaScript, Python, SQL",Azure,8.7,1.0,3,Software Developer
+B.Tech,Information Technology,"C++, Deep Learning, Docker, Machine Learning, Python, TensorFlow",None,,2.0,7,AI Engineer
+M.Tech,Computer Science,"Git, Java, MongoDB, Node.js",AWS,6.87,0.0,3,Backend Developer
+B.Tech,Computer Science,"C++, Git, Java, JavaScript, PHP, Python, SQL",Cisco,7.9,2.0,5,Software Developer
+MCA,Computer Science,"JavaScript, PHP, React",Cisco,8.6,3.0,4,Frontend Developer
+B.Tech,Computer Science,"Azure, JavaScript, Machine Learning, Python, SQL",None,8.96,3.0,3,Data Scientist
+B.Tech,Information Technology,"Azure, Java, MongoDB, Node.js, SQL",AWS,7.18,1.0,2,Backend Developer
+MCA,Computer Science,"C++, Kubernetes, Machine Learning, Python, SQL, TensorFlow",Google Cloud,7.63,3.0,7,AI Engineer
+B.E,Computer Science,"AWS, Git, Java, MongoDB, Node.js, Python, React, SQL",AWS,6.64,0.0,2,Backend Developer
+MCA,Information Technology,"AWS, Machine Learning, Python, TensorFlow",None,8.49,1.0,3,Data Scientist
+M.Tech,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",PMP,8.66,3.0,2,AI Engineer
+M.Tech,Data Science,"AWS, Java, Machine Learning, Python, SQL, TensorFlow",AWS,9.04,2.0,6,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux, Python",AWS,,0.0,3,DevOps Engineer
+BCA,Computer Science,"Git, Python, SQL",AWS,7.93,1.0,1,Software Developer
+BCA,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,7.99,2.0,5,Data Scientist
+B.Sc,Information Technology,"Azure, Git, Java, MongoDB, SQL, TensorFlow",AWS,7.24,3.0,2,Backend Developer
+MCA,Information Technology,"Deep Learning, Java, MongoDB, Python, TensorFlow",AWS,8.98,3.0,3,AI Engineer
+MCA,Data Science,"Java, JavaScript, Linux, Node.js, React",AWS,7.68,0.0,5,Frontend Developer
+B.Tech,Information Technology,"C++, Git, Java, Node.js, Python, SQL",None,7.64,2.0,1,Backend Developer
+MCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, MongoDB, React",Google Cloud,7.37,2.0,1,Cloud Engineer
+BCA,Data Science,"Java, Node.js, Python, SQL",Azure,6.81,1.0,3,Backend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",PMP,8.52,2.0,2,DevOps Engineer
+B.Sc,Information Technology,"C++, Java, Python, SQL",AWS,6.37,2.0,2,Backend Developer
+B.Tech,Computer Science,"AWS, C++, Git, Java, Kubernetes",AWS,7.4,3.0,4,Software Developer
+B.E,Data Science,"Git, JavaScript, Kubernetes, Machine Learning, PHP, React",,8.34,1.0,3,Frontend Developer
+B.Tech,Information Technology,"Git, Java, JavaScript, Python, React, SQL",Cisco,8.0,0.0,6,Software Developer
+B.Tech,Electronics,"AWS, C++, Deep Learning, Machine Learning, Python, TensorFlow",None,8.83,3.0,5,AI Engineer
+MCA,Data Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.74,3.0,2,Data Scientist
+MCA,Electronics,"Deep Learning, Git, JavaScript, PHP, React",AWS,8.65,2.0,4,Frontend Developer
+B.Tech,Data Science,"Deep Learning, Java, Python",Azure,7.51,1.0,1,AI Engineer
+BCA,Computer Science,"Java, Node.js, Python",AWS,6.07,2.0,3,Backend Developer
+B.Tech,Computer Science,"C++, Git, Python, React, SQL",Google Cloud,6.79,1.0,2,Software Developer
+B.Sc,Computer Science,"C++, Git, Node.js, Python, SQL",,9.41,2.0,6,Software Developer
+B.Tech,Electronics,"AWS, C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,,1.0,3,AI Engineer
+M.Tech,Computer Science,"Azure, Docker, Kubernetes, Linux, React",AWS,7.36,0.0,4,Cloud Engineer
+B.Tech,Computer Science,"Azure, Docker, Linux, Python",Azure,8.56,1.0,4,Cloud Engineer
+B.E,Data Science,"Azure, Kubernetes, Linux, React",Azure,6.97,1.0,4,Cloud Engineer
+B.Tech,Data Science,"Deep Learning, Machine Learning, MongoDB, Python, React, TensorFlow",,8.06,1.0,7,Data Scientist
+M.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux",AWS,6.5,2.0,1,DevOps Engineer
+M.Tech,Computer Science,"AWS, Azure, C++, Deep Learning, Docker, Linux",AWS,7.94,2.0,5,Cloud Engineer
+B.Sc,Computer Science,"C++, Git, JavaScript, PHP, React, SQL",None,7.34,2.0,4,Frontend Developer
+BCA,Information Technology,"AWS, Machine Learning, Node.js, Python, SQL, TensorFlow",AWS,7.83,,8,Data Scientist
+B.E,Computer Science,"Azure, C++, Java, JavaScript, Python, SQL",PMP,7.11,1.0,3,Software Developer
+BCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",Google Cloud,7.46,2.0,2,Cloud Engineer
+MCA,Data Science,"Java, SQL",,7.0,0.0,4,Software Developer
+MCA,Data Science,"AWS, Azure, Deep Learning, Kubernetes, Linux, React",PMP,6.65,2.0,1,Cloud Engineer
+B.Tech,Electronics,"JavaScript, Python, SQL",Google Cloud,8.74,2.0,2,Software Developer
+M.Tech,Electronics,"Azure, C++, Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",Google Cloud,7.89,3.0,6,AI Engineer
+MCA,Computer Science,"Git, Java, MongoDB, Node.js, Python, SQL",Cisco,7.28,3.0,2,Backend Developer
+B.E,Information Technology,"Git, Java, MongoDB, Node.js, Python, SQL",Azure,6.07,1.0,2,Backend Developer
+BCA,Data Science,"Docker, Kubernetes, MongoDB, Python, SQL",Google Cloud,6.94,1.0,2,Backend Developer
+B.Tech,Data Science,"Azure, Deep Learning, Machine Learning, Python, SQL",AWS,8.57,1.0,6,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, Node.js, PHP",AWS,8.29,0.0,3,Cloud Engineer
+M.Tech,Electronics,"C++, Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",AWS,8.89,3.0,4,AI Engineer
+B.Sc,Data Science,"AWS, Azure, Kubernetes, Linux, Node.js",AWS,6.47,3.0,4,Cloud Engineer
+B.Tech,Information Technology,"Git, JavaScript, Machine Learning, React",None,6.95,0.0,3,Frontend Developer
+B.Tech,Information Technology,"Azure, C++, Git, Java, Python, SQL",Azure,7.89,1.0,3,Software Developer
+M.Tech,Data Science,"C++, Deep Learning, Machine Learning, Python, React, SQL, TensorFlow",None,8.24,,5,Data Scientist
+M.Tech,Information Technology,"Deep Learning, Python, TensorFlow",,9.57,2.0,5,AI Engineer
+BCA,Information Technology,"Git, JavaScript, MongoDB, PHP, React",AWS,7.41,2.0,5,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Java, Node.js, SQL",AWS,8.33,0.0,1,Backend Developer
+B.E,Electronics,"C++, Git, JavaScript, Python, SQL",Azure,5.97,2.0,3,Software Developer
+MCA,Computer Science,"C++, Java, JavaScript, Python, SQL",Cisco,8.09,1.0,5,Software Developer
+B.E,Data Science,"AWS, Docker, Git, Kubernetes, Linux, PHP, Python, React",AWS,7.85,2.0,2,DevOps Engineer
+B.E,Computer Science,"C++, JavaScript, Node.js, PHP, React",AWS,7.77,2.0,3,Frontend Developer
+BCA,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux",Azure,7.82,2.0,2,Cloud Engineer
+MCA,Electronics,"Git, JavaScript, Node.js",PMP,8.71,3.0,4,Frontend Developer
+B.Sc,Computer Science,"Deep Learning, Git, Machine Learning, Python, SQL, TensorFlow",AWS,7.38,2.0,5,Data Scientist
+MCA,Computer Science,"Deep Learning, Docker, Kubernetes, Machine Learning, Python, SQL, TensorFlow",None,8.35,3.0,8,Data Scientist
+B.Tech,Data Science,"C++, Deep Learning, JavaScript, Machine Learning, Node.js, Python, TensorFlow",Google Cloud,8.82,2.0,5,AI Engineer
+M.Tech,Computer Science,"AWS, C++, Linux, Machine Learning, Python, TensorFlow",Google Cloud,9.09,1.0,5,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,6.69,1.0,4,Cloud Engineer
+MCA,Computer Science,"Machine Learning, Python, TensorFlow",Google Cloud,7.91,2.0,7,AI Engineer
+MCA,Electronics,"C++, Deep Learning, Machine Learning, Node.js, Python, TensorFlow",None,8.19,,6,AI Engineer
+MCA,Electronics,"C++, Git, Linux, MongoDB, Node.js, Python",AWS,8.4,1.0,1,Backend Developer
+M.Tech,Computer Science,"Deep Learning, PHP, Python, SQL, TensorFlow",None,7.54,2.0,4,Data Scientist
+BCA,Information Technology,"AWS, Azure, Docker, JavaScript, Kubernetes, Linux, Node.js",Azure,7.59,0.0,2,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, Kubernetes, Linux",AWS,6.9,1.0,2,Cloud Engineer
+BCA,Information Technology,"Azure, Git, JavaScript, Node.js, PHP, React",None,7.91,0.0,6,Frontend Developer
+BCA,Electronics,"AWS, Azure, Docker, Kubernetes",AWS,8.5,2.0,2,Cloud Engineer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, TensorFlow",AWS,9.62,2.0,4,AI Engineer
+M.Tech,Data Science,"AWS, Azure, C++, Docker, Git, Kubernetes, Linux, MongoDB",AWS,8.5,2.0,2,DevOps Engineer
+BCA,Information Technology,"Git, JavaScript, Linux, Node.js, PHP, React, TensorFlow",None,8.72,1.0,1,Frontend Developer
+M.Tech,Computer Science,"AWS, Deep Learning, Git, Machine Learning, MongoDB, Python, TensorFlow",None,7.56,2.0,2,Data Scientist
+M.Tech,Data Science,"Kubernetes, Machine Learning, React, SQL, TensorFlow",Azure,8.83,2.0,5,Data Scientist
+B.Tech,Information Technology,"Deep Learning, Git, MongoDB, Python",AWS,7.15,0.0,4,Backend Developer
+M.Tech,Computer Science,"Deep Learning, Java, Machine Learning, Python, SQL, TensorFlow",Azure,7.05,3.0,5,Data Scientist
+MCA,Computer Science,"C++, Deep Learning, Git, Python, SQL, TensorFlow",None,7.93,1.0,2,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux, Python",AWS,6.15,3.0,3,DevOps Engineer
+B.Tech,Computer Science,"AWS, Docker, Git, Kubernetes, Linux, Python",PMP,8.07,1.0,3,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Linux, SQL",Cisco,9.33,1.0,4,Cloud Engineer
+MCA,Computer Science,"AWS, Azure, Git, Kubernetes, Linux, Python",AWS,8.1,1.0,1,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Deep Learning, Docker, Git, Kubernetes, Linux",AWS,7.1,1.0,3,DevOps Engineer
+BCA,Computer Science,"Git, JavaScript, Linux, PHP, React",None,7.02,2.0,5,Frontend Developer
+B.Sc,Information Technology,"Java, MongoDB, Python, SQL",AWS,6.08,3.0,1,Backend Developer
+B.Sc,Electronics,"C++, Deep Learning, Linux, Machine Learning, Python, TensorFlow",None,8.3,1.0,5,AI Engineer
+B.Tech,Data Science,"Git, Java",AWS,7.4,2.0,3,Software Developer
+B.Tech,Computer Science,"Azure, Kubernetes, Linux, Python",AWS,8.28,1.0,4,Cloud Engineer
+M.Tech,Data Science,"Machine Learning, Node.js, Python, TensorFlow",,8.05,,7,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Deep Learning",Google Cloud,6.79,2.0,3,Cloud Engineer
+M.Tech,Information Technology,"Azure, C++, Deep Learning, Machine Learning, Python, React, TensorFlow",Cisco,7.67,3.0,5,AI Engineer
+BCA,Computer Science,"AWS, Git, Java, Node.js, Python, SQL",None,7.91,1.0,4,Backend Developer
+B.Sc,Data Science,"Deep Learning, Git, JavaScript, Machine Learning, Python, SQL, TensorFlow",None,7.55,3.0,2,Data Scientist
+B.Tech,Information Technology,"Git, Java, MongoDB, SQL",Google Cloud,7.22,2.0,3,Backend Developer
+B.Tech,Data Science,"Azure, Docker, Git, Kubernetes, Linux, Python",AWS,8.8,,2,DevOps Engineer
+B.Tech,Data Science,"Git, Linux, MongoDB, Python",Google Cloud,8.87,1.0,4,DevOps Engineer
+B.Tech,Computer Science,"AWS, Docker, Git, JavaScript, Kubernetes, Linux",AWS,8.02,1.0,3,DevOps Engineer
+B.Tech,Electronics,"Deep Learning, Git, Machine Learning, Python, SQL, TensorFlow",None,8.31,2.0,9,Data Scientist
+B.Tech,Data Science,"C++, Git, Java, Machine Learning, PHP, SQL",Cisco,8.93,3.0,4,Software Developer
+B.Tech,Computer Science,"C++, Deep Learning, Linux, Machine Learning, Python, TensorFlow",Google Cloud,7.4,3.0,8,AI Engineer
+M.Tech,Electronics,"C++, Git, Java, MongoDB, Node.js, Python, SQL",AWS,9.53,1.0,3,Backend Developer
+B.Tech,Computer Science,"Azure, C++, Kubernetes, Linux",,8.5,3.0,1,Cloud Engineer
+B.Tech,Computer Science,"Java, Kubernetes, PHP, Python, SQL",Azure,6.3,1.0,2,Software Developer
+B.Tech,Computer Science,"Git, JavaScript, MongoDB, PHP, Python, SQL",AWS,8.14,1.0,2,Software Developer
+BCA,Information Technology,"Git, JavaScript, Node.js, React",None,6.69,3.0,5,Frontend Developer
+B.Tech,Information Technology,"AWS, Azure, Docker, Linux, PHP",AWS,7.9,1.0,3,Cloud Engineer
+B.Tech,Data Science,"Git, JavaScript, PHP, React",None,7.41,1.0,4,Frontend Developer
+M.Tech,Information Technology,"Kubernetes, Machine Learning, PHP, Python, SQL, TensorFlow",Azure,9.03,2.0,1,Data Scientist
+B.Tech,Information Technology,"Deep Learning, Java, Machine Learning, Python, TensorFlow",,8.37,3.0,4,AI Engineer
+M.Tech,Computer Science,"C++, Kubernetes, Python, React, TensorFlow",Google Cloud,7.98,1.0,4,AI Engineer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,7.78,2.0,3,AI Engineer
+M.Tech,Computer Science,"C++, Machine Learning, Python, TensorFlow",Azure,8.5,1.0,2,AI Engineer
+B.Tech,Computer Science,"Azure, Git, Java, Python, SQL",Azure,7.69,1.0,3,Software Developer
+BCA,Computer Science,"Git, Java, Python, SQL",None,6.16,3.0,4,Backend Developer
+B.Sc,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL",None,8.99,1.0,1,Data Scientist
+B.Sc,Information Technology,"Deep Learning, Git, JavaScript, Node.js, React",AWS,6.1,3.0,2,Frontend Developer
+MCA,Computer Science,"AWS, Azure, Docker, JavaScript, TensorFlow",Google Cloud,8.58,2.0,2,Cloud Engineer
+M.Tech,Computer Science,"Azure, Docker, Git, Java, Kubernetes",AWS,9.41,1.0,3,DevOps Engineer
+M.Tech,Data Science,"Deep Learning, Machine Learning, MongoDB, Python, SQL, TensorFlow",PMP,7.43,1.0,4,Data Scientist
+B.Tech,Electronics,"AWS, Azure, C++, Kubernetes, Linux, MongoDB",AWS,6.76,1.0,3,Cloud Engineer
+MCA,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, Node.js",AWS,9.03,2.0,4,Cloud Engineer
+B.Tech,Electronics,"AWS, Docker, Git, Kubernetes, Linux, Python",Azure,8.17,0.0,1,DevOps Engineer
+B.Tech,Data Science,"C++, Git, Java, JavaScript, Kubernetes, Python, SQL",None,6.35,1.0,4,Software Developer
+M.Tech,Computer Science,"Deep Learning, Java, Machine Learning, Python, React, TensorFlow",Google Cloud,8.54,2.0,1,AI Engineer
+MCA,Electronics,"AWS, Azure, Docker, Kubernetes, Linux",Google Cloud,8.33,0.0,1,Cloud Engineer
+BCA,Information Technology,"Azure, Git, JavaScript, MongoDB, React",None,7.22,0.0,4,Frontend Developer
+MCA,Information Technology,"AWS, Azure, Kubernetes, Python",Azure,6.81,2.0,2,Cloud Engineer
+B.Sc,Information Technology,"Docker, Git, Java, MongoDB, Node.js, SQL",None,6.09,0.0,4,Backend Developer
+M.Tech,Computer Science,"Git, Java, MongoDB, Node.js, SQL",PMP,6.44,1.0,2,Backend Developer
+MCA,Data Science,"Git, JavaScript, React",Google Cloud,8.53,2.0,6,Frontend Developer
+B.Tech,Information Technology,"Docker, Git, Java, MongoDB, Node.js, Python, SQL",None,8.15,,3,Backend Developer
+BCA,Computer Science,"AWS, Docker, Git, Java, Node.js, Python, SQL",Cisco,8.4,2.0,2,Backend Developer
+B.Tech,Data Science,"Docker, Git, Java, MongoDB, Node.js, Python, SQL",None,6.38,0.0,3,Backend Developer
+B.Tech,Information Technology,"Git, JavaScript, PHP, React",None,7.29,1.0,4,Frontend Developer
+M.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, Python",AWS,8.51,2.0,3,Cloud Engineer
+B.Tech,Computer Science,"AWS, Git, Linux, Python",Cisco,8.4,2.0,3,DevOps Engineer
+MBA,Computer Science,"Azure, Git, JavaScript, Node.js",Google Cloud,7.09,2.0,1,Frontend Developer
+B.Sc,Electronics,"AWS, Deep Learning, Machine Learning, Python, React, SQL, TensorFlow",Google Cloud,7.19,3.0,1,Data Scientist
+M.Tech,Computer Science,"Deep Learning, Git, JavaScript, Machine Learning, Python, SQL",AWS,7.6,1.0,1,Data Scientist
+B.Tech,Computer Science,"Deep Learning, Git, Java, Linux, Node.js, Python, SQL",PMP,5.95,2.0,1,Backend Developer
+B.Tech,Electronics,"Azure, Git, Java, Python",Azure,7.37,2.0,1,Software Developer
+MCA,Information Technology,"Deep Learning, Java, Machine Learning, Node.js, Python, TensorFlow",Google Cloud,8.9,2.0,8,AI Engineer
+B.Tech,Computer Science,"AWS, Azure, C++, Docker, Java, Kubernetes, Linux",AWS,8.29,1.0,2,Cloud Engineer
+B.Tech,Electronics,"AWS, Azure, Git, Kubernetes",Google Cloud,7.64,2.0,1,Cloud Engineer
+MCA,Computer Science,"Azure, Java, JavaScript, Python, SQL",Google Cloud,6.94,1.0,1,Software Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,7.98,1.0,5,Data Scientist
+MCA,Electronics,"C++, Git, JavaScript, Node.js, PHP, React",Cisco,7.93,2.0,6,Frontend Developer
+M.Tech,Information Technology,"Git, JavaScript, Machine Learning, Python, SQL, TensorFlow",AWS,8.73,2.0,2,Data Scientist
+B.Tech,Computer Science,"Docker, Git, JavaScript, React, SQL",Azure,4.72,2.0,2,Frontend Developer
+BCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,6.75,2.0,3,Cloud Engineer
+B.Sc,Information Technology,"Azure, C++, Kubernetes, Python",Azure,8.44,3.0,6,AI Engineer
+B.Sc,Information Technology,"Git, JavaScript, React",AWS,6.98,3.0,4,Frontend Developer
+M.Tech,Computer Science,"Git, Java, MongoDB, Python, SQL, TensorFlow",Google Cloud,7.2,2.0,2,Backend Developer
+M.Tech,Data Science,"C++, Deep Learning, Git, Machine Learning, MongoDB, Python, TensorFlow",,8.06,1.0,5,AI Engineer
+MCA,Electronics,"C++, Git, JavaScript, MongoDB, SQL",AWS,8.1,1.0,1,Software Developer
+B.Sc,Computer Science,"Deep Learning, Python, TensorFlow",Azure,8.52,2.0,5,AI Engineer
+B.Sc,Electronics,"Docker, Git, JavaScript, PHP, React, TensorFlow",None,7.64,0.0,4,Frontend Developer
+B.Tech,Data Science,"Machine Learning, Node.js, PHP, SQL",None,6.05,2.0,3,Backend Developer
+B.Tech,Data Science,"C++, Git, Java, JavaScript, Machine Learning, Python, SQL",PMP,7.79,0.0,1,Software Developer
+B.Tech,Computer Science,"Git, Java, MongoDB, Node.js",AWS,8.09,1.0,4,Backend Developer
+B.Tech,Electronics,"Git, JavaScript, Node.js, PHP, React",None,6.52,2.0,3,Frontend Developer
+BCA,Computer Science,"AWS, Git, Java, Python, SQL",None,8.4,1.0,4,Backend Developer
+MBA,Computer Science,"AWS, Deep Learning, Machine Learning, Node.js, Python, SQL",AWS,8.13,,5,Data Scientist
+BCA,Computer Science,"C++, Git, JavaScript, Node.js, React",PMP,8.22,1.0,3,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, Machine Learning, React",Azure,8.57,1.0,2,Cloud Engineer
+B.E,Computer Science,"AWS, Azure, Git, Kubernetes, Linux, TensorFlow",Google Cloud,8.4,2.0,3,Cloud Engineer
+B.Sc,Information Technology,"C++, Git, MongoDB, Python, SQL",None,8.5,1.0,3,Software Developer
+M.Tech,Computer Science,"Deep Learning, JavaScript, Machine Learning, Python, SQL, TensorFlow",Azure,7.39,2.0,3,Data Scientist
+M.Tech,Information Technology,"Machine Learning, PHP, Python, SQL",None,7.82,2.0,5,Data Scientist
+B.Tech,Computer Science,"Git, MongoDB, Node.js, Python, SQL",None,9.48,1.0,2,Backend Developer
+MCA,Data Science,"AWS, Deep Learning, Docker, Machine Learning, Node.js, Python, SQL",Google Cloud,8.19,1.0,2,Data Scientist
+B.Tech,Electronics,"Git, JavaScript, Linux, React",None,9.42,2.0,3,Frontend Developer
+M.Tech,Computer Science,"Azure, Docker, Git, Linux, Machine Learning, PHP",AWS,7.29,1.0,3,DevOps Engineer
+M.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL",AWS,8.32,2.0,1,Data Scientist
+MCA,Computer Science,"Git, JavaScript, Kubernetes, React",None,7.72,2.0,2,Frontend Developer
+M.Tech,Electronics,"Deep Learning, Machine Learning, Python, TensorFlow",None,9.29,3.0,4,Data Scientist
+MCA,Data Science,"AWS, Azure, C++, Deep Learning, Machine Learning, Python, SQL",AWS,8.27,3.0,5,Data Scientist
+B.Tech,Information Technology,"AWS, Machine Learning, Python, SQL, TensorFlow",AWS,7.98,1.0,4,Data Scientist
+M.Tech,Computer Science,"C++, Deep Learning, Docker, Machine Learning, Python, TensorFlow",Azure,7.58,3.0,3,AI Engineer
+B.Sc,Information Technology,"Deep Learning, Git, JavaScript, Node.js, PHP, React",AWS,6.75,3.0,5,Frontend Developer
+MBA,Information Technology,"Deep Learning, Machine Learning, Python, React, SQL",None,7.9,1.0,4,Data Scientist
+M.Tech,Information Technology,"Machine Learning, PHP, Python, SQL",Google Cloud,8.76,2.0,5,Data Scientist
+BCA,Computer Science,"Azure, Git, JavaScript, MongoDB, Node.js, PHP, React",PMP,6.25,2.0,8,Frontend Developer
+MCA,Data Science,"Java, MongoDB, Node.js, Python, SQL",Cisco,6.19,2.0,2,Backend Developer
+M.Tech,Computer Science,"Git, JavaScript, React",AWS,8.6,0.0,5,Frontend Developer
+MCA,Electronics,"Machine Learning, Python, TensorFlow",None,8.39,2.0,3,Data Scientist
+B.Tech,Data Science,"MongoDB, PHP, React, SQL",AWS,5.71,2.0,3,Backend Developer
+B.Tech,Computer Science,"Azure, Git, Java, MongoDB, Node.js, SQL",PMP,8.15,1.0,1,Backend Developer
+B.Sc,Computer Science,"AWS, Git, Java, JavaScript, MongoDB",PMP,6.26,0.0,2,Backend Developer
+M.Tech,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",AWS,8.04,1.0,7,AI Engineer
+BCA,Data Science,"Java, SQL",None,8.18,1.0,4,Backend Developer
+B.Sc,Data Science,"Deep Learning, Java, Machine Learning, Python, SQL, TensorFlow",Azure,8.02,1.0,4,Data Scientist
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, React, TensorFlow",Google Cloud,8.12,3.0,2,AI Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, MongoDB, Node.js, Python",AWS,8.0,2.0,3,DevOps Engineer
+M.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",Azure,7.29,0.0,3,DevOps Engineer
+B.Tech,Data Science,"AWS, Machine Learning, MongoDB, Python, SQL, TensorFlow",None,8.37,2.0,2,Data Scientist
+MCA,Computer Science,"C++, Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",Google Cloud,8.18,2.0,9,AI Engineer
+B.Sc,Information Technology,"AWS, Deep Learning, Machine Learning, PHP, Python, SQL, TensorFlow",None,8.32,2.0,4,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, SQL",AWS,7.36,2.0,3,Cloud Engineer
+MBA,Computer Science,"Git, JavaScript, PHP, React",PMP,8.3,2.0,3,Frontend Developer
+BCA,Data Science,"C++, Git, JavaScript, Node.js, PHP, React",Cisco,6.15,2.0,2,Frontend Developer
+B.Sc,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL",Google Cloud,8.97,1.0,3,Data Scientist
+MCA,Computer Science,"Deep Learning, Java, JavaScript, Node.js, Python, SQL",None,6.48,2.0,1,Backend Developer
+B.Tech,Information Technology,"AWS, Azure, Docker, JavaScript, Linux, PHP",AWS,6.99,,2,Cloud Engineer
+M.Tech,Information Technology,"AWS, Azure, Kubernetes, Linux",Azure,6.33,2.0,2,Cloud Engineer
+BCA,Information Technology,"C++, Git, JavaScript, PHP, Python, React",None,6.57,1.0,1,Frontend Developer
+M.Tech,Information Technology,"AWS, Java, Linux, TensorFlow",Azure,8.38,2.0,3,Cloud Engineer
+B.E,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Machine Learning, Python, SQL",AWS,7.72,3.0,3,DevOps Engineer
+M.Tech,Electronics,"Deep Learning, Linux, Machine Learning, Python, SQL, TensorFlow",AWS,8.18,1.0,2,Data Scientist
+M.Tech,Computer Science,"Deep Learning, Docker, Machine Learning, Node.js, Python, TensorFlow",Azure,7.05,2.0,5,AI Engineer
+BCA,Computer Science,"C++, Git, Java, Node.js, Python, SQL",AWS,7.39,2.0,2,Backend Developer
+B.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, Python",Google Cloud,8.01,1.0,2,DevOps Engineer
+BCA,Information Technology,"Deep Learning, JavaScript, Python, TensorFlow",Azure,7.85,2.0,5,AI Engineer
+MBA,Information Technology,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",Google Cloud,8.03,1.0,4,Data Scientist
+B.Sc,Information Technology,"AWS, Git, JavaScript, PHP",Google Cloud,7.28,1.0,5,Frontend Developer
+B.Sc,Computer Science,"Git, MongoDB, Node.js, Python, SQL",Google Cloud,8.96,0.0,2,Backend Developer
+BCA,Information Technology,"AWS, Git, Java, MongoDB, Node.js, SQL",AWS,7.92,3.0,2,Backend Developer
+M.Tech,Computer Science,"C++, Deep Learning, Docker, Python, TensorFlow",None,8.93,2.0,8,AI Engineer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python",Google Cloud,,1.0,4,AI Engineer
+B.Tech,Information Technology,"Deep Learning, Python, TensorFlow",AWS,8.79,3.0,7,AI Engineer
+B.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Python",Google Cloud,6.76,0.0,3,DevOps Engineer
+M.Tech,Data Science,"Deep Learning, Kubernetes, Machine Learning, Python, SQL, TensorFlow",None,7.54,2.0,2,Data Scientist
+B.Tech,Information Technology,"AWS, Git, Java, JavaScript, Python, SQL",None,7.0,1.0,4,Software Developer
+MCA,Information Technology,"Deep Learning, Docker, Git, Machine Learning, Python, TensorFlow",Google Cloud,7.5,2.0,2,AI Engineer
+MBA,Information Technology,"AWS, Azure, Kubernetes, Linux",Azure,7.72,0.0,4,Cloud Engineer
+B.Tech,Electronics,"Deep Learning, Machine Learning, Python, SQL",None,7.61,2.0,5,Data Scientist
+B.Tech,Information Technology,"Git, JavaScript, MongoDB, Node.js, PHP, React",Google Cloud,,2.0,1,Frontend Developer
+B.E,Computer Science,"C++, Docker, Linux",AWS,7.95,2.0,3,Cloud Engineer
+M.Tech,Information Technology,"AWS, Docker, Kubernetes, Node.js",AWS,7.53,2.0,3,Cloud Engineer
+B.Sc,Data Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",None,7.56,2.0,3,AI Engineer
+M.Tech,Electronics,"Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,,2.0,1,AI Engineer
+M.Tech,Information Technology,"AWS, Azure, Docker, Linux",Cisco,8.08,2.0,2,Cloud Engineer
+B.Tech,Electronics,"Azure, Git, JavaScript, Node.js, React, TensorFlow",None,7.15,3.0,6,Frontend Developer
+B.Sc,Data Science,"Deep Learning, Java, Kubernetes, Machine Learning, Python, SQL, TensorFlow",Google Cloud,7.9,2.0,3,Data Scientist
+B.Tech,Information Technology,"Git, JavaScript, Node.js, React",None,7.54,2.0,4,Frontend Developer
+B.Tech,Data Science,"JavaScript, Kubernetes, Linux",Cisco,9.63,2.0,2,Cloud Engineer
+B.Tech,Information Technology,"Azure, Git, Java, Python",None,7.2,0.0,1,Software Developer
+B.Tech,Computer Science,"AWS, C++, Docker, Git, Kubernetes, Linux, Python, TensorFlow",PMP,8.26,1.0,3,DevOps Engineer
+B.Tech,Information Technology,"C++, Git, Java, MongoDB, Node.js, Python, SQL, TensorFlow",AWS,7.73,1.0,2,Backend Developer
+BCA,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, PHP, Python, TensorFlow",AWS,7.42,3.0,2,DevOps Engineer
+B.Tech,Information Technology,"C++, Git, JavaScript, MongoDB, Python, SQL",PMP,7.05,0.0,2,Software Developer
+B.Tech,Computer Science,"Docker, Git, Java, Node.js, Python, React, SQL",Azure,7.51,3.0,2,Backend Developer
+B.Sc,Information Technology,"C++, JavaScript, Python",None,7.9,1.0,7,Software Developer
+M.Tech,Data Science,"AWS, Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",AWS,7.9,2.0,2,AI Engineer
+B.Sc,Data Science,"C++, PHP, Python, TensorFlow",Azure,8.18,2.0,4,AI Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",Cisco,7.98,1.0,1,DevOps Engineer
+B.Tech,Computer Science,"C++, Git, Java, JavaScript, Node.js, Python, SQL",PMP,6.7,1.0,2,Software Developer
+BCA,Data Science,"Git, JavaScript",None,6.55,1.0,3,Frontend Developer
+MCA,Information Technology,"C++, Deep Learning, Machine Learning, MongoDB, Python, SQL",AWS,7.68,3.0,1,Data Scientist
+M.Tech,Electronics,"AWS, Java, MongoDB, PHP, SQL",Google Cloud,8.41,1.0,1,Backend Developer
+B.Tech,Data Science,"Java, Kubernetes, Python, SQL",None,7.43,2.0,4,Software Developer
+BCA,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, React",Google Cloud,7.45,1.0,3,DevOps Engineer
+B.Tech,Data Science,"Git, Java, MongoDB, Node.js, PHP, Python, SQL, TensorFlow",AWS,7.32,0.0,3,Backend Developer
+B.Sc,Computer Science,"Docker, JavaScript, MongoDB, Node.js, PHP, React",None,,1.0,6,Frontend Developer
+BCA,Data Science,"Azure, Docker, Git, JavaScript, Node.js, React",Azure,7.14,0.0,3,Frontend Developer
+BCA,Data Science,"AWS, Java, Linux, Python, SQL",None,7.99,1.0,4,Backend Developer
+B.Tech,Computer Science,"C++, Git, Java, SQL",AWS,8.01,1.0,5,Software Developer
+M.Tech,Electronics,"Deep Learning, Kubernetes, Machine Learning, MongoDB, Python, TensorFlow",Azure,9.07,3.0,8,AI Engineer
+MCA,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, MongoDB, Python",AWS,8.29,1.0,2,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Linux, Python, React",Azure,8.31,1.0,3,DevOps Engineer
+B.Tech,Computer Science,"Azure, C++, Java, JavaScript, Machine Learning, Python, SQL",Google Cloud,6.43,2.0,4,Software Developer
+M.Tech,Data Science,"C++, Git, Java, JavaScript, Machine Learning, Python, SQL",Cisco,8.17,1.0,1,Software Developer
+MCA,Data Science,"Docker, Kubernetes, Linux",Cisco,7.17,1.0,3,DevOps Engineer
+B.E,Electronics,"Git, Linux, Node.js, SQL",None,7.42,2.0,2,Backend Developer
+BCA,Computer Science,"AWS, Azure, Docker, MongoDB, SQL",Azure,8.25,1.0,3,Cloud Engineer
+BCA,Information Technology,"C++, Git, PHP, Python, SQL",None,8.95,2.0,4,Software Developer
+M.Tech,Data Science,"AWS, Azure, Kubernetes, Linux, PHP, React",AWS,7.72,1.0,2,Cloud Engineer
+MCA,Electronics,"Deep Learning, Java, Machine Learning, Python, SQL, TensorFlow",None,8.97,1.0,3,Data Scientist
+B.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python",Google Cloud,7.89,3.0,2,AI Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Azure,7.33,1.0,2,AI Engineer
+B.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",PMP,7.71,3.0,1,Data Scientist
+B.Sc,Information Technology,"Deep Learning, Git, Machine Learning, PHP, Python, SQL, TensorFlow",AWS,9.21,1.0,2,Data Scientist
+BCA,Computer Science,"AWS, Docker, Kubernetes, Linux, Python, TensorFlow",Cisco,8.03,1.0,2,DevOps Engineer
+MCA,Computer Science,"AWS, Git, Java, JavaScript",AWS,8.99,2.0,6,Software Developer
+BCA,Data Science,"Git, Java, MongoDB, Node.js, Python, SQL",None,7.49,0.0,4,Backend Developer
+B.Tech,Computer Science,"Git, JavaScript, Node.js, React",Google Cloud,,1.0,5,Frontend Developer
+MCA,Computer Science,"Docker, Git, Java, SQL",None,6.83,1.0,2,Backend Developer
+BCA,Data Science,"C++, Git, React, SQL",PMP,7.65,1.0,4,Software Developer
+BCA,Data Science,"Git, MongoDB, SQL",None,8.42,1.0,2,Backend Developer
+BCA,Information Technology,"Git, JavaScript, PHP, React, SQL, TensorFlow",None,6.37,0.0,1,Frontend Developer
+M.Tech,Data Science,"C++, Deep Learning, Git, Python, TensorFlow",AWS,7.06,3.0,5,AI Engineer
+M.Tech,Information Technology,"C++, Deep Learning, JavaScript, Machine Learning, Python, TensorFlow",Azure,7.98,3.0,5,AI Engineer
+BCA,Information Technology,"Deep Learning, Git, JavaScript, React",None,7.66,1.0,3,Frontend Developer
+M.Tech,Data Science,"AWS, Azure, C++, Deep Learning, Docker, Linux",Cisco,8.15,0.0,1,DevOps Engineer
+B.Sc,Information Technology,"Azure, Deep Learning, Git, Machine Learning, Python, SQL, TensorFlow",PMP,7.61,1.0,2,Data Scientist
+B.E,Computer Science,"AWS, Azure, Deep Learning, Git, Kubernetes, Linux, PHP",AWS,7.69,2.0,4,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.97,1.0,1,Cloud Engineer
+BCA,Data Science,"JavaScript, Node.js, PHP, React, SQL",None,7.7,2.0,4,Frontend Developer
+M.Tech,Computer Science,"Git, JavaScript, MongoDB, Node.js, React, TensorFlow",None,8.21,3.0,2,Frontend Developer
+B.Tech,Information Technology,"Git, JavaScript, Node.js, React",None,6.43,3.0,8,Frontend Developer
+B.Tech,Computer Science,"Deep Learning, Machine Learning, Python, TensorFlow",None,7.94,1.0,3,AI Engineer
+MCA,Information Technology,"AWS, Azure, Git, JavaScript, Kubernetes, Linux, Python, TensorFlow",Azure,7.69,2.0,3,DevOps Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,7.01,3.0,2,Cloud Engineer
+BCA,Information Technology,"AWS, Docker, Kubernetes, Linux, PHP",Azure,9.14,1.0,1,Cloud Engineer
+B.Tech,Information Technology,"C++, Git, Java, JavaScript, SQL, TensorFlow",Google Cloud,6.98,2.0,2,Software Developer
+B.Tech,Computer Science,"AWS, Azure, Linux, React, SQL",AWS,8.71,1.0,2,Cloud Engineer
+M.Tech,Data Science,"Deep Learning, Git, Kubernetes, Machine Learning, Python, SQL, TensorFlow",Google Cloud,7.98,2.0,5,Data Scientist
+B.E,Data Science,"Git, Java, Machine Learning, MongoDB, Python",None,7.45,,2,Backend Developer
+MCA,Information Technology,"C++, Git, Java, MongoDB, Node.js, Python, SQL",None,8.33,1.0,3,Backend Developer
+MCA,Electronics,"AWS, Azure, Kubernetes, Linux",AWS,6.62,2.0,3,Cloud Engineer
+B.Tech,Information Technology,"AWS, Azure, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Google Cloud,8.66,2.0,3,Data Scientist
+M.Tech,Information Technology,"C++, Deep Learning, Machine Learning, Node.js, PHP, Python, TensorFlow",Azure,8.7,3.0,4,AI Engineer
+B.Tech,Electronics,"C++, Git, Machine Learning, MongoDB, SQL",None,7.06,2.0,1,Software Developer
+B.Sc,Computer Science,"JavaScript, Node.js, PHP, React",None,6.91,3.0,4,Frontend Developer
+B.Sc,Information Technology,"Python, React",,7.71,2.0,2,Software Developer
+M.Tech,Computer Science,"AWS, Azure, C++, Docker, Kubernetes, Linux",Google Cloud,7.07,0.0,2,Cloud Engineer
+M.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, PHP",Google Cloud,7.34,2.0,3,Cloud Engineer
+B.Sc,Information Technology,Java,Azure,7.26,2.0,1,Software Developer
+B.Tech,Computer Science,"Deep Learning, Docker, Kubernetes, Machine Learning, Python, TensorFlow",AWS,7.9,1.0,6,AI Engineer
+BCA,Data Science,"Java, Node.js, Python, SQL",None,7.05,1.0,2,Backend Developer
+M.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Python, SQL",Google Cloud,6.84,2.0,4,DevOps Engineer
+M.Tech,Electronics,"Azure, Docker, Kubernetes, Linux, Machine Learning",Google Cloud,8.16,1.0,2,DevOps Engineer
+B.Sc,Computer Science,"Git, JavaScript, Node.js, PHP, React",None,7.18,2.0,5,Frontend Developer
+B.Tech,Information Technology,"Git, Java, Python, SQL, TensorFlow",Azure,5.95,1.0,3,Software Developer
+M.Tech,Computer Science,"AWS, Machine Learning, SQL",Azure,8.63,2.0,5,Data Scientist
+M.Tech,Electronics,"C++, Deep Learning, Linux, Machine Learning, Python, React, TensorFlow",Google Cloud,7.62,2.0,5,AI Engineer
+B.Tech,Data Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.35,1.0,4,AI Engineer
+MCA,Computer Science,"Git, Java, Linux, MongoDB, Node.js, Python, SQL",Azure,,3.0,3,Backend Developer
+B.Tech,Electronics,"Git, Java, JavaScript, MongoDB, Python, SQL",Google Cloud,8.21,1.0,2,Backend Developer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, TensorFlow",Google Cloud,7.26,1.0,3,DevOps Engineer
+B.Tech,Information Technology,"Git, JavaScript, PHP, React",None,6.21,1.0,5,Frontend Developer
+MCA,Computer Science,"Deep Learning, Machine Learning, Python, SQL",Cisco,8.46,2.0,5,Data Scientist
+M.Tech,Computer Science,"AWS, Java, Linux, Python, SQL",None,8.09,0.0,2,Backend Developer
+BCA,Electronics,"C++, Git, Java, JavaScript, Python, SQL",Google Cloud,6.91,2.0,3,Software Developer
+BCA,Computer Science,"C++, Git, Linux, Python, SQL",None,7.71,2.0,4,Software Developer
+MCA,Information Technology,"Git, MongoDB, Node.js, React, SQL",AWS,6.05,,2,Frontend Developer
+MCA,Information Technology,"AWS, Azure, Deep Learning, Git, Kubernetes, Linux, Python",Cisco,9.37,2.0,1,DevOps Engineer
+BCA,Data Science,"C++, Deep Learning, Git, JavaScript, Node.js, PHP, React",None,6.73,1.0,4,Frontend Developer
+MCA,Information Technology,"Git, Java, Node.js, PHP, Python, SQL",PMP,8.68,1.0,3,Backend Developer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",AWS,7.94,1.0,1,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Deep Learning, Machine Learning, Python, TensorFlow",PMP,8.07,,1,Data Scientist
+MCA,Computer Science,"Deep Learning, JavaScript, Machine Learning, Node.js, Python, SQL, TensorFlow",None,8.08,1.0,4,Data Scientist
+B.Tech,Computer Science,"JavaScript, PHP, React",None,8.37,2.0,2,Frontend Developer
+BCA,Computer Science,"Git, JavaScript, PHP, React",PMP,6.88,2.0,3,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, MongoDB, Python, SQL",Azure,7.89,2.0,4,DevOps Engineer
+MBA,Computer Science,"Git, Java, MongoDB, Node.js, Python",None,6.4,1.0,1,Backend Developer
+M.Tech,Data Science,"Docker, Git, SQL",Azure,8.24,3.0,2,Backend Developer
+MCA,Computer Science,"AWS, Azure, Git, Kubernetes, Linux, Python",Google Cloud,8.0,2.0,2,DevOps Engineer
+B.Tech,Computer Science,"C++, Java, Node.js, Python",AWS,6.79,1.0,2,Software Developer
+B.Sc,Computer Science,"Deep Learning, Docker, Machine Learning, Python, SQL, TensorFlow",None,8.51,2.0,3,Data Scientist
+MCA,Computer Science,Linux,Azure,8.04,,3,Cloud Engineer
+BCA,Computer Science,"AWS, Java, Node.js, Python, SQL",Cisco,7.55,0.0,2,Backend Developer
+B.Tech,Information Technology,"Git, Java, JavaScript, Python, SQL",None,9.64,0.0,2,Software Developer
+B.Tech,Information Technology,"Git, Java, Kubernetes, MongoDB, Python",None,8.18,2.0,4,Backend Developer
+B.Tech,Information Technology,"C++, Deep Learning, Docker, Java, Machine Learning, Python, TensorFlow",Google Cloud,7.63,3.0,2,AI Engineer
+B.Tech,Data Science,"Deep Learning, Linux, Machine Learning, MongoDB, TensorFlow",Azure,7.11,2.0,3,AI Engineer
+BCA,Information Technology,"Git, Java, JavaScript, PHP, React, SQL",Azure,6.71,1.0,6,Frontend Developer
+B.Tech,Computer Science,"AWS, C++, Machine Learning, Python, SQL, TensorFlow",Google Cloud,7.62,1.0,3,Data Scientist
+B.Sc,Information Technology,"AWS, Git, JavaScript, Python, React",None,7.38,1.0,2,Frontend Developer
+MCA,Information Technology,"Git, JavaScript, Python, React",None,9.01,0.0,2,Software Developer
+BCA,Computer Science,"AWS, C++, Git, JavaScript, Python, SQL",AWS,7.42,0.0,3,Software Developer
+B.Tech,Computer Science,"C++, Git, JavaScript, Node.js, Python",None,6.06,3.0,2,Software Developer
+M.Tech,Electronics,"Deep Learning, Machine Learning, Python, TensorFlow",AWS,8.34,3.0,6,AI Engineer
+B.E,Computer Science,"Machine Learning, Python, SQL, TensorFlow",PMP,7.28,2.0,1,Data Scientist
+B.Tech,Computer Science,"PHP, Python, SQL, TensorFlow",Azure,9.14,3.0,4,Data Scientist
+M.Tech,Computer Science,"AWS, Docker, Git, Kubernetes, Linux",AWS,7.02,3.0,2,DevOps Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.1,2.0,2,AI Engineer
+M.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, React",PMP,8.1,1.0,3,DevOps Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.88,1.0,2,Cloud Engineer
+B.Tech,Electronics,"Git, JavaScript, React, TensorFlow",PMP,7.71,3.0,7,Frontend Developer
+B.Tech,Data Science,"Git, Java, JavaScript",None,6.97,3.0,5,Frontend Developer
+B.E,Computer Science,"Git, Python",AWS,7.49,2.0,3,Software Developer
+BCA,Computer Science,"Git, Java, Node.js, PHP, Python, SQL",None,8.01,1.0,2,Backend Developer
+M.Tech,Information Technology,"AWS, React, TensorFlow",Azure,8.74,2.0,2,Cloud Engineer
+M.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux",,8.72,2.0,2,DevOps Engineer
+B.Tech,Data Science,"Git, JavaScript, Node.js, PHP, SQL",None,9.37,3.0,4,Frontend Developer
+B.Tech,Information Technology,"C++, Docker, Git, Java, Machine Learning, Python, SQL",Azure,8.26,0.0,5,Software Developer
+B.Tech,Computer Science,"Deep Learning, Git, JavaScript",Google Cloud,6.78,3.0,2,Frontend Developer
+B.Tech,Electronics,"Git, Java, MongoDB, Python",Azure,7.07,0.0,3,Backend Developer
+BCA,Data Science,"AWS, Docker, Java, Kubernetes, Linux, Python",Google Cloud,8.19,2.0,2,DevOps Engineer
+MCA,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, SQL",Google Cloud,7.36,1.0,3,Cloud Engineer
+B.Tech,Information Technology,"Git, JavaScript, React",None,7.35,0.0,2,Frontend Developer
+B.Sc,Electronics,"Git, JavaScript, Python, SQL",None,7.52,1.0,4,Software Developer
+B.Tech,Information Technology,"Git, JavaScript, PHP, React",Google Cloud,7.36,0.0,4,Frontend Developer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, Machine Learning, SQL",AWS,8.51,3.0,2,DevOps Engineer
+M.Tech,Electronics,"AWS, Docker, Git, Kubernetes, Linux, Machine Learning, Python",AWS,6.82,2.0,2,DevOps Engineer
+BCA,Information Technology,"Java, Machine Learning, Python",AWS,7.69,3.0,5,AI Engineer
+M.Tech,Information Technology,"AWS, Azure, Deep Learning, Git, Kubernetes, Linux, MongoDB, Python",Azure,7.45,2.0,3,DevOps Engineer
+B.Tech,Data Science,"Git, JavaScript, PHP, React, SQL",Google Cloud,7.69,1.0,6,Frontend Developer
+M.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,7.1,1.0,3,Data Scientist
+BCA,Computer Science,"Git, Java, MongoDB, PHP, Python, SQL",Azure,7.0,1.0,3,Backend Developer
+B.Sc,Computer Science,"JavaScript, Node.js, PHP, Python, React",Google Cloud,6.81,0.0,6,Frontend Developer
+BCA,Computer Science,"Git, Java, JavaScript, Node.js, PHP, React",Google Cloud,8.32,3.0,2,Frontend Developer
+B.Tech,Electronics,"AWS, Deep Learning, Machine Learning, PHP, Python, SQL",AWS,8.16,2.0,7,Data Scientist
+BCA,Data Science,"AWS, Azure, Deep Learning, Git, Java, Kubernetes, Python",,8.27,2.0,2,DevOps Engineer
+B.E,Data Science,"Azure, Docker, Kubernetes, Linux, SQL",None,7.16,0.0,4,Cloud Engineer
+B.Sc,Information Technology,"AWS, Azure, Git, Node.js, SQL",None,7.83,1.0,2,Backend Developer
+M.Tech,Information Technology,"AWS, Docker, Linux, TensorFlow",AWS,6.92,0.0,1,Cloud Engineer
+B.Sc,Information Technology,"Git, JavaScript, MongoDB, React, TensorFlow",Google Cloud,7.18,2.0,4,Frontend Developer
+M.Tech,Data Science,"AWS, Docker, Git, Kubernetes, Linux, Python",AWS,8.58,1.0,4,DevOps Engineer
+B.Tech,Information Technology,"AWS, C++, Deep Learning, Git, Java, JavaScript, Python, SQL",Azure,8.36,1.0,1,Software Developer
+BCA,Computer Science,"Azure, Java, MongoDB, Python, SQL",Cisco,6.8,0.0,1,Backend Developer
+B.Tech,Information Technology,"Docker, Java, MongoDB, Node.js, Python, SQL",None,6.28,0.0,1,Backend Developer
+B.Tech,Information Technology,"C++, Git, Java, MongoDB",AWS,8.12,1.0,1,Software Developer
+B.Tech,Information Technology,"Git, Java, PHP, SQL",PMP,9.11,1.0,3,Software Developer
+MCA,Data Science,"AWS, Azure, Docker, Git, Linux, Python",Azure,7.73,1.0,3,DevOps Engineer
+B.Tech,Computer Science,"C++, SQL",Azure,5.77,1.0,3,Software Developer
+M.Tech,Computer Science,"Git, Machine Learning, Python, SQL, TensorFlow",Azure,8.6,2.0,5,Data Scientist
+M.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Node.js, Python, TensorFlow",None,7.75,2.0,3,AI Engineer
+B.Sc,Information Technology,"Git, JavaScript, Node.js, Python",None,7.93,0.0,4,Frontend Developer
+MCA,Computer Science,"Docker, Git, MongoDB, Node.js, SQL, TensorFlow",None,7.77,2.0,2,Backend Developer
+B.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,7.42,2.0,7,Data Scientist
+B.Tech,Computer Science,"Azure, Git, Java, SQL",Cisco,7.29,3.0,1,Backend Developer
+B.Sc,Computer Science,"Git, Java, JavaScript, PHP, Python, React",None,6.63,3.0,3,Frontend Developer
+M.Tech,Computer Science,"Docker, Linux, TensorFlow",Azure,7.53,1.0,3,Cloud Engineer
+B.Sc,Information Technology,"Machine Learning, PHP, Python, TensorFlow",Google Cloud,7.86,1.0,4,AI Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, TensorFlow",None,8.47,1.0,5,AI Engineer
+B.E,Computer Science,"C++, Git, JavaScript, React, SQL",PMP,7.54,1.0,3,Software Developer
+BCA,Information Technology,"Git, React",None,7.63,1.0,4,Frontend Developer
+B.Sc,Electronics,"Git, JavaScript, Node.js, React, TensorFlow",PMP,7.52,3.0,5,Frontend Developer
+B.Sc,Computer Science,"Git, JavaScript, Node.js, React",None,6.73,2.0,5,Frontend Developer
+B.Tech,Computer Science,"Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",Google Cloud,8.2,1.0,8,AI Engineer
+M.Tech,Computer Science,"AWS, C++, Docker, Machine Learning, Python, SQL, TensorFlow",Cisco,8.58,1.0,1,Data Scientist
+B.Tech,Data Science,"Git, Java, JavaScript, Python, SQL",Azure,7.38,0.0,1,Software Developer
+M.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes",AWS,7.37,3.0,1,Cloud Engineer
+MBA,Computer Science,"Git, PHP, Python, React",Google Cloud,6.42,2.0,1,Backend Developer
+BCA,Electronics,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Azure,8.92,1.0,2,Data Scientist
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Linux, Node.js",Azure,7.4,3.0,2,Cloud Engineer
+B.Tech,Information Technology,"AWS, Azure, Git, Java, JavaScript, Kubernetes, Linux, Python",AWS,8.05,1.0,2,DevOps Engineer
+BCA,Information Technology,"C++, Deep Learning, Python, TensorFlow",,,3.0,10,AI Engineer
+B.Tech,Computer Science,"AWS, Docker, Git, Kubernetes, Linux, Node.js, Python, TensorFlow",Cisco,8.89,1.0,2,DevOps Engineer
+B.Tech,Computer Science,"C++, Machine Learning, Python, TensorFlow",Google Cloud,7.87,3.0,2,AI Engineer
+B.Tech,Computer Science,"Git, Java, MongoDB, Node.js, PHP, Python, SQL",None,7.51,1.0,3,Backend Developer
+MCA,Data Science,"AWS, Docker, Git, Kubernetes, Linux",AWS,8.63,2.0,3,DevOps Engineer
+M.Tech,Data Science,"AWS, Deep Learning, Git, Linux, Machine Learning, Python, SQL, TensorFlow",AWS,7.86,1.0,1,Data Scientist
+M.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,8.61,1.0,1,Data Scientist
+B.Sc,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.18,0.0,2,Cloud Engineer
+MCA,Electronics,"C++, Git, Java, JavaScript, Python, React",None,8.47,2.0,4,Software Developer
+B.Tech,Computer Science,"Deep Learning, Kubernetes, Machine Learning, MongoDB, Python, TensorFlow",AWS,8.72,1.0,6,AI Engineer
+MCA,Electronics,"Git, SQL, TensorFlow",Google Cloud,8.67,2.0,1,Backend Developer
+B.Tech,Information Technology,"Docker, Git, JavaScript, Kubernetes, Node.js, PHP, React",Azure,7.88,2.0,2,Frontend Developer
+BCA,Computer Science,"AWS, C++, Deep Learning, Machine Learning, Node.js, Python, TensorFlow",AWS,7.25,3.0,6,AI Engineer
+B.Sc,Computer Science,"Git, JavaScript, Node.js, PHP, SQL",AWS,5.65,3.0,4,Frontend Developer
+B.Sc,Information Technology,"Azure, Git, Machine Learning, Python, TensorFlow",Azure,8.69,2.0,3,Data Scientist
+BCA,Data Science,"Azure, Git, Java, Kubernetes, MongoDB, SQL",None,,1.0,3,Backend Developer
+B.Tech,Electronics,"AWS, Azure, Docker, Kubernetes, Linux, MongoDB, SQL",Google Cloud,,1.0,3,Cloud Engineer
+B.E,Information Technology,"AWS, Azure, Git, Kubernetes, Linux, PHP, TensorFlow",Azure,8.22,2.0,2,DevOps Engineer
+B.Tech,Computer Science,"AWS, Azure, C++, Linux, TensorFlow",Google Cloud,7.86,1.0,3,Cloud Engineer
+MCA,Data Science,"AWS, Azure, Deep Learning, Java, Machine Learning, Python, SQL, TensorFlow",AWS,,3.0,4,Data Scientist
+M.Tech,Data Science,"AWS, Kubernetes, Machine Learning, Python, SQL",Azure,7.6,3.0,3,Data Scientist
+B.Tech,Computer Science,"Java, MongoDB, Node.js, Python, SQL",None,7.8,2.0,3,Backend Developer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux",Azure,7.95,1.0,2,DevOps Engineer
+B.Tech,Computer Science,"Deep Learning, Machine Learning, Node.js, Python, SQL",Azure,8.93,2.0,2,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Linux",AWS,9.17,1.0,2,Cloud Engineer
+B.Tech,Computer Science,"Git, Java, Python, SQL",Cisco,8.61,2.0,5,Software Developer
+M.Tech,Information Technology,"AWS, Azure, Kubernetes, Machine Learning, Python, SQL",Google Cloud,8.02,1.0,2,Data Scientist
+B.Tech,Electronics,"AWS, Git, Machine Learning, Node.js, Python, SQL",None,7.4,3.0,4,Data Scientist
+M.Tech,Information Technology,"AWS, Java, Machine Learning, Python, SQL",Azure,7.81,2.0,7,Data Scientist
+M.Tech,Computer Science,"AWS, Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",None,7.15,1.0,4,AI Engineer
+MCA,Electronics,"Deep Learning, Python, SQL",Azure,8.15,1.0,4,Data Scientist
+B.Tech,Information Technology,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.91,2.0,7,AI Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",,7.75,1.0,3,DevOps Engineer
+BCA,Information Technology,"Deep Learning, Java, MongoDB, Node.js, SQL",AWS,7.54,1.0,2,Backend Developer
+B.Tech,Electronics,"Deep Learning, Machine Learning, Python, TensorFlow",AWS,7.97,2.0,5,AI Engineer
+BCA,Computer Science,"C++, Deep Learning, Machine Learning, Python",None,7.68,3.0,4,AI Engineer
+M.Tech,Information Technology,"C++, Docker, Git, Java, Python, React",None,8.84,0.0,2,Software Developer
+BCA,Information Technology,"C++, Git, Java, JavaScript, Python, SQL",AWS,8.15,0.0,1,Software Developer
+B.Tech,Data Science,"Docker, Git, JavaScript, Node.js, PHP, Python, React",Azure,6.94,1.0,2,Frontend Developer
+B.Tech,Information Technology,"Git, Java, Python, React, SQL",Azure,8.79,0.0,4,Software Developer
+B.E,Data Science,"AWS, Azure, Docker, Kubernetes, Node.js",Google Cloud,6.92,2.0,3,Cloud Engineer
+MCA,Data Science,"C++, Git, Linux, Python, SQL",AWS,7.35,3.0,1,Software Developer
+BCA,Information Technology,"Git, JavaScript, Machine Learning, MongoDB, SQL",None,8.15,2.0,2,Backend Developer
+MCA,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Machine Learning, Python, React",Google Cloud,8.48,1.0,1,DevOps Engineer
+MCA,Information Technology,"C++, Git, Java, MongoDB, Python, SQL",Cisco,7.12,0.0,1,Backend Developer
+B.Tech,Information Technology,"Machine Learning, Python, SQL, TensorFlow",None,8.68,1.0,3,Data Scientist
+B.Sc,Information Technology,"Deep Learning, Git, JavaScript, Kubernetes, Python, SQL",Azure,6.94,0.0,2,Software Developer
+M.Tech,Computer Science,"C++, Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",Azure,8.28,2.0,4,Data Scientist
+B.Tech,Computer Science,"AWS, C++, Docker, Git, Kubernetes, Linux",AWS,7.97,1.0,1,Cloud Engineer
+MCA,Computer Science,"Git, Python, SQL, TensorFlow",Google Cloud,6.97,3.0,4,Backend Developer
+B.E,Computer Science,"AWS, Azure, Docker, Linux, Machine Learning, React",AWS,8.4,2.0,3,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, Java, Linux, Machine Learning",Azure,6.92,2.0,3,Cloud Engineer
+B.Tech,Data Science,"C++, Deep Learning, Docker, Linux, Machine Learning, Python, TensorFlow",Azure,7.97,2.0,8,AI Engineer
+M.Tech,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",None,7.58,1.0,6,AI Engineer
+M.Tech,Computer Science,"Kubernetes, Machine Learning, Python, SQL, TensorFlow",Azure,8.27,1.0,7,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, C++, Docker, Git, Kubernetes, Linux, Python",AWS,7.7,1.0,3,DevOps Engineer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, React, SQL, TensorFlow",Google Cloud,7.35,1.0,6,AI Engineer
+BCA,Computer Science,"Azure, Git, JavaScript, Kubernetes, Python, SQL",None,7.59,1.0,3,Software Developer
+BCA,Information Technology,"Java, PHP, Python, SQL",AWS,,0.0,5,Software Developer
+M.Tech,Information Technology,"AWS, Azure, Docker, Java, JavaScript, Kubernetes, Linux",Google Cloud,8.28,0.0,5,Cloud Engineer
+BCA,Computer Science,"Git, Java, Node.js, SQL",None,7.85,1.0,2,Backend Developer
+MCA,Data Science,"Java, Node.js, PHP, SQL, TensorFlow",None,5.35,0.0,3,Backend Developer
+MCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, React",,9.32,2.0,3,Cloud Engineer
+B.Tech,Computer Science,"Git, Java, MongoDB, Node.js, PHP, Python, SQL",Azure,8.5,2.0,3,Backend Developer
+B.Sc,Information Technology,"AWS, C++, Deep Learning, Machine Learning, Python, TensorFlow",AWS,8.06,1.0,7,AI Engineer
+B.Sc,Data Science,"AWS, Deep Learning, Git, Kubernetes, Machine Learning, Python, SQL, TensorFlow",AWS,8.09,3.0,2,Data Scientist
+B.E,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",AWS,7.71,1.0,3,DevOps Engineer
+B.E,Computer Science,"AWS, Azure, C++, Kubernetes, Python",Azure,7.76,2.0,2,Cloud Engineer
+BCA,Electronics,"C++, Git, Java, JavaScript, MongoDB, Python, TensorFlow",AWS,6.64,1.0,1,Software Developer
+BCA,Computer Science,"C++, Java, JavaScript, Machine Learning, Python, SQL",None,8.91,2.0,2,Software Developer
+BCA,Computer Science,"Docker, Git, Kubernetes, Linux",AWS,7.75,0.0,5,DevOps Engineer
+MCA,Data Science,"Azure, Docker, Git, Kubernetes, Linux",Azure,8.88,2.0,3,DevOps Engineer
+B.Sc,Information Technology,"Git, Java, Node.js, Python, SQL, TensorFlow",,8.36,2.0,4,Backend Developer
+B.Tech,Computer Science,"AWS, Azure, Linux, MongoDB",Cisco,8.15,2.0,3,DevOps Engineer
+B.Tech,Information Technology,"C++, Deep Learning, Machine Learning, PHP, Python, SQL, TensorFlow",Azure,9.32,1.0,7,AI Engineer
+BCA,Data Science,"Git, JavaScript, Linux",None,7.0,1.0,1,Frontend Developer
+B.Tech,Information Technology,"AWS, Docker, Kubernetes, Linux, Machine Learning",Cisco,6.94,0.0,3,Cloud Engineer
+BCA,Computer Science,"Deep Learning, Java, Machine Learning, MongoDB, Node.js, Python, SQL",Google Cloud,8.39,1.0,3,Backend Developer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Cisco,7.35,1.0,7,AI Engineer
+B.Tech,Information Technology,"Git, Java, JavaScript, Node.js, Python, SQL",None,6.28,2.0,3,Backend Developer
+BCA,Data Science,"Azure, Docker, Git, Kubernetes, Linux, Machine Learning",Google Cloud,7.24,1.0,4,Cloud Engineer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,,2.0,4,Data Scientist
+B.Tech,Information Technology,"Deep Learning, Git, Java, SQL",None,8.04,3.0,2,Software Developer
+BCA,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, Node.js, PHP",,7.4,0.0,3,Cloud Engineer
+MBA,Computer Science,"C++, Git, Java, Linux, Machine Learning, Python, SQL",Azure,7.79,3.0,3,Software Developer
+M.Tech,Computer Science,"Deep Learning, Kubernetes, Machine Learning, Python, SQL",,8.93,2.0,2,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, PHP, Python",AWS,8.83,,3,DevOps Engineer
+B.Sc,Information Technology,"Deep Learning, Kubernetes, Machine Learning, Node.js, Python, SQL",Azure,8.78,2.0,4,Data Scientist
+BCA,Electronics,"Git, Java, MongoDB, Node.js, SQL",Google Cloud,8.92,1.0,2,Backend Developer
+M.Tech,Information Technology,"Deep Learning, Git, Machine Learning, Python, TensorFlow",Cisco,8.08,2.0,6,AI Engineer
+B.Tech,Electronics,"AWS, Azure, Deep Learning, Docker, Kubernetes",PMP,8.68,2.0,3,Cloud Engineer
+BCA,Computer Science,"Azure, C++, Java, Kubernetes, Python, SQL",AWS,8.45,1.0,5,Software Developer
+M.Tech,Computer Science,"Git, Node.js, SQL",AWS,8.39,2.0,4,Backend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,7.06,2.0,3,Cloud Engineer
+M.Tech,Information Technology,"AWS, Git, Kubernetes, Linux, Python",Cisco,8.27,,4,DevOps Engineer
+MCA,Data Science,"JavaScript, Machine Learning, MongoDB, PHP, React",PMP,6.72,1.0,10,Frontend Developer
+B.Tech,Information Technology,"AWS, Azure, Deep Learning, Docker, Git, Kubernetes, Linux",AWS,8.01,1.0,3,Cloud Engineer
+BCA,Computer Science,"Git, JavaScript, Node.js, Python, React",None,6.85,2.0,3,Frontend Developer
+M.Tech,Data Science,"C++, Git, Java, MongoDB, Node.js, SQL",Azure,7.84,3.0,2,Backend Developer
+B.Tech,Data Science,"Docker, Git, Java, MongoDB, Node.js, SQL",,7.73,1.0,3,Backend Developer
+B.Sc,Computer Science,"C++, Deep Learning, Git, Java, JavaScript, Python",None,7.77,3.0,3,Software Developer
+M.Tech,Computer Science,"AWS, Azure, Deep Learning, Docker, Machine Learning, Python, SQL, TensorFlow",None,7.8,2.0,2,Data Scientist
+M.Tech,Computer Science,"Azure, C++, Deep Learning, Machine Learning, Python, TensorFlow",None,7.18,3.0,4,AI Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Linux, Node.js, Python",AWS,7.63,1.0,2,DevOps Engineer
+BCA,Computer Science,"Azure, Git, Java, Kubernetes, Linux",AWS,7.63,1.0,3,DevOps Engineer
+BCA,Computer Science,"AWS, Azure, Deep Learning, Kubernetes, Linux",AWS,6.56,1.0,2,Cloud Engineer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, SQL",Azure,,2.0,3,DevOps Engineer
+B.Tech,Information Technology,"Git, Java, MongoDB, SQL",,5.99,2.0,2,Software Developer
+B.Tech,Information Technology,"Azure, Docker, Git, JavaScript, Kubernetes, Linux, Node.js, Python",Azure,8.28,2.0,4,DevOps Engineer
+B.Sc,Data Science,"Git, Java, Node.js, Python, SQL, TensorFlow",None,8.48,3.0,3,Backend Developer
+M.Tech,Computer Science,"Git, Java, Python",None,8.86,1.0,2,Software Developer
+B.Tech,Data Science,"C++, Deep Learning, JavaScript, Machine Learning, Python, React, TensorFlow",AWS,8.04,2.0,7,AI Engineer
+BCA,Data Science,"Docker, Git, JavaScript, Linux, Node.js, PHP, React",None,7.71,2.0,1,Frontend Developer
+BCA,Information Technology,"Git, JavaScript, PHP, React",None,5.82,2.0,5,Frontend Developer
+B.Tech,Information Technology,"C++, Deep Learning, Git, Java, JavaScript, Python, React, SQL",None,6.77,0.0,1,Software Developer
+B.Sc,Computer Science,"C++, Git, Java, JavaScript, Linux, Python",Cisco,7.55,0.0,3,Software Developer
+B.Tech,Data Science,"AWS, Docker, Git, Kubernetes, Linux, PHP",Azure,7.98,2.0,2,DevOps Engineer
+B.Sc,Computer Science,"AWS, Machine Learning, Python, SQL, TensorFlow",Azure,7.79,3.0,2,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Node.js, Python",,8.11,2.0,3,DevOps Engineer
+B.Sc,Computer Science,"JavaScript, Node.js, React, TensorFlow",None,6.93,1.0,3,Frontend Developer
+MCA,Computer Science,"C++, Deep Learning, Kubernetes, React, TensorFlow",AWS,7.81,3.0,3,AI Engineer
+BCA,Information Technology,"C++, Docker, Git, PHP, Python, SQL",Azure,7.46,1.0,1,Software Developer
+BCA,Electronics,"Docker, Git, JavaScript, React",Google Cloud,8.44,1.0,3,Frontend Developer
+B.Tech,Computer Science,"Git, Java, Python, SQL",None,9.43,3.0,3,Backend Developer
+MCA,Information Technology,"Deep Learning, Git, Java, MongoDB, Python, SQL",None,7.55,1.0,2,Backend Developer
+B.Sc,Computer Science,"JavaScript, Python, SQL",None,6.26,0.0,2,Software Developer
+BCA,Computer Science,"Git, Java, Kubernetes, MongoDB, Node.js, Python, SQL",Azure,6.85,1.0,2,Backend Developer
+B.Sc,Computer Science,"C++, Git, Java, Machine Learning, SQL, TensorFlow",Azure,7.76,1.0,2,Software Developer
+MCA,Information Technology,"AWS, Azure, Deep Learning, Docker, JavaScript, Kubernetes, Linux",Cisco,7.45,0.0,2,Cloud Engineer
+MCA,Information Technology,"Git, JavaScript, Node.js, PHP, React",Google Cloud,6.94,0.0,1,Frontend Developer
+B.E,Information Technology,"Git, JavaScript, MongoDB, Node.js, Python, React",PMP,8.06,2.0,1,Frontend Developer
+B.Tech,Data Science,"AWS, Azure, Git, JavaScript, Kubernetes, Linux, Python",None,8.13,1.0,3,DevOps Engineer
+B.Tech,Electronics,"Azure, Docker, Git, Kubernetes, Linux, Python",,8.59,2.0,4,DevOps Engineer
+MBA,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux",AWS,7.82,1.0,2,DevOps Engineer
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Machine Learning",None,7.57,3.0,1,DevOps Engineer
+B.Tech,Computer Science,"Git, JavaScript, Node.js, React, SQL",None,6.62,3.0,4,Frontend Developer
+B.Tech,Information Technology,"C++, Deep Learning, Machine Learning, Python, React, TensorFlow",None,9.45,3.0,4,AI Engineer
+B.Sc,Information Technology,"C++, Git",Cisco,7.95,0.0,4,Software Developer
+M.Tech,Computer Science,"AWS, Java, Machine Learning, Python, SQL, TensorFlow",Azure,7.18,,1,Data Scientist
+B.Sc,Electronics,"Deep Learning, Machine Learning, SQL",AWS,7.54,1.0,5,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,8.06,1.0,4,DevOps Engineer
+B.Tech,Computer Science,"C++, Deep Learning, JavaScript, Machine Learning, Python, TensorFlow",Google Cloud,7.47,1.0,4,AI Engineer
+BCA,Electronics,"Git, JavaScript, PHP, Python",None,8.18,3.0,6,Frontend Developer
+B.Sc,Information Technology,"Azure, Deep Learning, Git, Java, Node.js, Python, SQL",Azure,7.33,1.0,3,Backend Developer
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",Google Cloud,8.02,1.0,2,Cloud Engineer
+M.Tech,Electronics,"C++, Deep Learning, JavaScript, Machine Learning, Python, TensorFlow",None,8.29,3.0,3,AI Engineer
+B.Tech,Information Technology,"Node.js, React",AWS,6.1,3.0,5,Frontend Developer
+B.Sc,Electronics,"C++, Deep Learning, Machine Learning, Python, SQL",None,8.16,2.0,4,Data Scientist
+M.Tech,Computer Science,"AWS, C++, Deep Learning, Machine Learning, PHP, Python, TensorFlow",Google Cloud,7.29,2.0,4,AI Engineer
+M.Tech,Information Technology,"Deep Learning, Kubernetes, Linux, Machine Learning, Python, SQL, TensorFlow",AWS,8.46,2.0,4,Data Scientist
+MCA,Computer Science,"Azure, Git, MongoDB, Node.js, SQL",Google Cloud,6.64,0.0,2,Backend Developer
+MCA,Information Technology,"Git, Java, MongoDB, Python, SQL",Google Cloud,7.06,2.0,1,Backend Developer
+B.Sc,Computer Science,"AWS, Machine Learning, Node.js, Python, SQL, TensorFlow",AWS,8.45,1.0,3,Data Scientist
+BCA,Information Technology,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.18,2.0,2,Data Scientist
+B.Tech,Information Technology,"JavaScript, PHP, React",PMP,8.88,0.0,4,Frontend Developer
+M.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Machine Learning, TensorFlow",Google Cloud,8.03,0.0,3,DevOps Engineer
+B.Tech,Information Technology,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.44,2.0,4,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Deep Learning, Docker, Kubernetes, MongoDB",AWS,7.15,2.0,1,Cloud Engineer
+BCA,Computer Science,"AWS, Docker, Git, Kubernetes, Linux, Python",Azure,7.64,2.0,2,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Kubernetes, Linux, React",AWS,8.01,1.0,4,Cloud Engineer
+M.Tech,Data Science,"Azure, JavaScript, Kubernetes, Linux, TensorFlow",None,8.15,3.0,2,Cloud Engineer
+M.Tech,Information Technology,"Java, Kubernetes, MongoDB, Python, SQL",Azure,8.67,1.0,2,Backend Developer
+MCA,Information Technology,"AWS, Machine Learning, Python, React, TensorFlow",Azure,8.02,3.0,4,Data Scientist
+MCA,Data Science,"Git, Linux, MongoDB, Python, TensorFlow",AWS,8.09,1.0,2,Backend Developer
+B.Sc,Information Technology,"Git, Java, Linux, Node.js, Python, SQL",AWS,8.04,1.0,1,Backend Developer
+B.Tech,Computer Science,"Git, JavaScript, React, SQL",None,8.71,1.0,2,Frontend Developer
+BCA,Data Science,"Azure, Docker, Git, Java, Kubernetes, Linux, React",None,8.84,1.0,2,DevOps Engineer
+MBA,Computer Science,"C++, Git, Java",AWS,8.53,0.0,5,Software Developer
+MCA,Computer Science,"C++, Deep Learning, Machine Learning, PHP, Python, TensorFlow",Google Cloud,7.77,2.0,2,AI Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,9.1,,3,Data Scientist
+B.Tech,Computer Science,"C++, Git, Java, JavaScript, Python, SQL",None,6.59,1.0,3,Software Developer
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",PMP,7.64,2.0,2,DevOps Engineer
+B.E,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",AWS,7.96,1.0,2,DevOps Engineer
+B.Tech,Information Technology,"Git, JavaScript, Node.js, React",None,6.96,0.0,6,Frontend Developer
+BCA,Computer Science,"C++, Git, JavaScript, Node.js, React",PMP,6.11,2.0,4,Frontend Developer
+B.Tech,Electronics,"C++, JavaScript, Machine Learning, Python, SQL",None,7.0,1.0,3,Software Developer
+B.Sc,Data Science,"Git, Java, JavaScript, Python, SQL",None,8.01,3.0,1,Software Developer
+B.Tech,Information Technology,"AWS, Git, JavaScript, Linux, Node.js, React",None,8.04,0.0,2,Frontend Developer
+M.Tech,Information Technology,"AWS, Azure, C++, Kubernetes, Linux, Python",AWS,8.37,0.0,1,Cloud Engineer
+M.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",Cisco,7.78,1.0,2,DevOps Engineer
+B.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux",Google Cloud,9.0,0.0,2,DevOps Engineer
+B.Sc,Computer Science,"Git, JavaScript, PHP, React",Cisco,7.25,1.0,5,Frontend Developer
+BCA,Computer Science,"Git, JavaScript, MongoDB, PHP, Python, React",Azure,7.91,2.0,5,Frontend Developer
+B.Tech,Computer Science,"AWS, Deep Learning, Kubernetes, Machine Learning, Python, SQL, TensorFlow",Azure,9.04,1.0,1,Data Scientist
+M.Tech,Electronics,"C++, Git, Machine Learning, Python",None,8.56,2.0,7,AI Engineer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Java, Kubernetes, Linux, SQL",Azure,6.98,1.0,4,DevOps Engineer
+M.Tech,Information Technology,"C++, Deep Learning, Machine Learning, Python",Azure,8.76,2.0,6,AI Engineer
+MCA,Computer Science,"AWS, Docker, Linux",Google Cloud,8.36,1.0,2,Cloud Engineer
+MCA,Computer Science,"AWS, C++, Deep Learning, Kubernetes, Python, TensorFlow",None,7.93,2.0,6,AI Engineer
+M.Tech,Information Technology,"AWS, Git, Linux, SQL",Google Cloud,6.7,1.0,4,DevOps Engineer
+B.Sc,Computer Science,"Git, JavaScript, Machine Learning, PHP, React",Azure,7.99,2.0,1,Frontend Developer
+B.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Python",AWS,8.65,0.0,3,DevOps Engineer
+MCA,Computer Science,"Git, JavaScript, Python, SQL",AWS,7.33,1.0,4,Software Developer
+B.Tech,Computer Science,"Docker, JavaScript, Node.js, PHP, React, SQL",None,7.56,1.0,3,Frontend Developer
+BCA,Computer Science,"C++, Git, Java, Kubernetes, Python, SQL",None,7.68,0.0,3,Software Developer
+M.Tech,Information Technology,"Java, MongoDB, Node.js, SQL, TensorFlow",AWS,6.88,,3,Backend Developer
+B.Sc,Computer Science,"C++, Git, JavaScript, PHP",PMP,6.65,2.0,3,Frontend Developer
+B.Tech,Information Technology,"Git, Java, JavaScript, Kubernetes",Azure,7.59,2.0,4,Frontend Developer
+MCA,Electronics,"AWS, Deep Learning, Java, Machine Learning, PHP, Python, SQL",None,8.59,2.0,1,Data Scientist
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, SQL",Google Cloud,8.72,1.0,1,DevOps Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Linux, Python, SQL",AWS,7.37,1.0,3,DevOps Engineer
+MCA,Data Science,"C++, Git, Java, JavaScript, PHP, SQL",None,6.46,0.0,1,Software Developer
+B.Tech,Data Science,"AWS, Deep Learning, Linux, Machine Learning, Python, TensorFlow",PMP,8.57,1.0,10,AI Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Docker, Linux, Machine Learning, Python, TensorFlow",Google Cloud,7.37,1.0,3,AI Engineer
+B.Tech,Computer Science,"C++, Git, JavaScript, PHP, Python, SQL",None,7.47,1.0,3,Software Developer
+M.Tech,Electronics,"Azure, Git, Java, JavaScript, Python, SQL",AWS,7.05,1.0,5,Software Developer
+BCA,Information Technology,"C++, Java, JavaScript, Python",Azure,6.87,2.0,2,Software Developer
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Node.js",Google Cloud,8.63,,3,DevOps Engineer
+M.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",Google Cloud,7.58,2.0,1,DevOps Engineer
+B.Sc,Computer Science,"C++, Java, SQL",None,9.54,1.0,2,Backend Developer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, MongoDB, PHP, Python, SQL, TensorFlow",None,8.91,1.0,8,Data Scientist
+BCA,Data Science,"Azure, Git, Node.js, SQL",None,9.08,1.0,2,Backend Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, PHP, Python, SQL, TensorFlow",Google Cloud,8.41,3.0,6,Data Scientist
+B.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, MongoDB",Azure,8.32,1.0,2,DevOps Engineer
+M.Tech,Electronics,"C++, Deep Learning, Machine Learning, Python, TensorFlow",None,7.98,3.0,4,AI Engineer
+MCA,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Node.js",Azure,8.9,1.0,2,Cloud Engineer
+BCA,Electronics,"AWS, Azure, Git, Java, JavaScript, Python",None,7.67,3.0,1,Software Developer
+M.Tech,Computer Science,"C++, Linux, Machine Learning, MongoDB, Python, TensorFlow",AWS,7.45,2.0,5,AI Engineer
+MBA,Information Technology,"Git, Java, Linux, MongoDB, Python, SQL",None,6.76,3.0,2,Backend Developer
+B.Tech,Computer Science,"Machine Learning, Python, SQL, TensorFlow",Azure,9.4,1.0,2,Data Scientist
+MCA,Electronics,"Git, JavaScript, Node.js",AWS,,2.0,2,Frontend Developer
+M.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux",AWS,7.12,2.0,2,DevOps Engineer
+B.Tech,Computer Science,"Azure, Git, Java, Python, SQL",AWS,8.3,1.0,3,Software Developer
+B.Tech,Data Science,"C++, Java, SQL",AWS,7.6,3.0,1,Software Developer
+B.Tech,Computer Science,"AWS, Azure, Kubernetes, Linux, PHP",AWS,7.74,1.0,1,Cloud Engineer
+M.Tech,Electronics,"AWS, Docker, Machine Learning, Python, React, SQL, TensorFlow",Google Cloud,8.92,1.0,4,Data Scientist
+B.Tech,Information Technology,"Deep Learning, JavaScript, Machine Learning, Python, React, SQL, TensorFlow",,7.78,3.0,5,Data Scientist
+B.Tech,Data Science,"Git, Node.js, React",PMP,7.95,0.0,2,Frontend Developer
+BCA,Information Technology,"AWS, Git, Java, JavaScript, Python, SQL",AWS,7.65,1.0,3,Software Developer
+MCA,Electronics,"Git, Node.js, React",None,7.03,0.0,5,Frontend Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Python, React, SQL, TensorFlow",AWS,8.28,3.0,2,Data Scientist
+MCA,Computer Science,"Git, Java, MongoDB, Python, SQL",AWS,7.76,1.0,4,Backend Developer
+B.Sc,Information Technology,"AWS, Deep Learning, Git, Machine Learning, Node.js, SQL, TensorFlow",Google Cloud,8.94,2.0,5,Data Scientist
+M.Tech,Electronics,"AWS, Azure, Docker, Kubernetes, Linux",Azure,6.96,2.0,3,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, Deep Learning, Linux, Machine Learning, Python, SQL, TensorFlow",None,9.04,2.0,5,Data Scientist
+B.Tech,Information Technology,"C++, Git, Java, Machine Learning, Python, SQL, TensorFlow",None,6.53,0.0,2,Software Developer
+B.Tech,Computer Science,"AWS, Azure, C++, Docker, Linux, PHP",AWS,8.1,1.0,1,Cloud Engineer
+BCA,Data Science,"C++, Git, Java, Machine Learning, Python",None,6.92,0.0,3,Software Developer
+B.Tech,Information Technology,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Azure,8.53,1.0,5,AI Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, SQL",AWS,9.37,0.0,3,DevOps Engineer
+M.Tech,Data Science,"Git, JavaScript, PHP, React",None,6.19,1.0,4,Frontend Developer
+B.Sc,Information Technology,"AWS, Azure, C++, Docker, Kubernetes, Linux, Node.js",Cisco,7.67,1.0,1,Cloud Engineer
+B.Tech,Computer Science,"C++, Git, Linux, PHP, Python",Azure,6.61,1.0,6,Software Developer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, SQL",,7.98,2.0,3,Cloud Engineer
+BCA,Computer Science,"Deep Learning, PHP, React",None,8.0,1.0,6,Frontend Developer
+M.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux",AWS,7.27,2.0,1,DevOps Engineer
+MBA,Computer Science,"C++, Deep Learning, Machine Learning, Node.js, Python, React, TensorFlow",Azure,7.9,,6,AI Engineer
+M.Tech,Electronics,"AWS, Azure, Java, Linux",AWS,7.48,2.0,4,Cloud Engineer
+M.Tech,Information Technology,"AWS, Deep Learning, Docker, Kubernetes, Linux",Google Cloud,8.14,0.0,3,Cloud Engineer
+MCA,Computer Science,"AWS, Deep Learning, Linux, Python, SQL, TensorFlow",AWS,6.87,2.0,6,Data Scientist
+MBA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, SQL, TensorFlow",Azure,7.2,0.0,2,Cloud Engineer
+M.Tech,Data Science,"Git, Java, Machine Learning, MongoDB, Python",Cisco,8.59,1.0,1,Backend Developer
+B.Tech,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",Azure,7.49,2.0,4,Data Scientist
+BCA,Information Technology,"Git, Java, Python, SQL",None,8.46,2.0,2,Backend Developer
+B.Tech,Information Technology,"AWS, Azure, Deep Learning, Docker, Git, Kubernetes, Linux, Machine Learning",Azure,8.36,2.0,3,DevOps Engineer
+BCA,Computer Science,"Java, JavaScript, Node.js, PHP, React",None,8.95,1.0,1,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes",Azure,8.6,0.0,2,Cloud Engineer
+M.Tech,Electronics,"AWS, Docker, Java, Kubernetes, Linux, PHP",,,2.0,2,Cloud Engineer
+B.Tech,Information Technology,"Deep Learning, Python, TensorFlow",Google Cloud,8.18,1.0,5,AI Engineer
+MCA,Information Technology,"AWS, Azure, Docker, Linux, Python",Cisco,,1.0,3,DevOps Engineer
+MCA,Electronics,"Deep Learning, JavaScript, Machine Learning, PHP, Python, SQL",Azure,7.86,1.0,2,Data Scientist
+M.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Azure,7.27,2.0,7,Data Scientist
+B.Tech,Computer Science,"Deep Learning, Git, Machine Learning, Python, SQL",None,6.31,1.0,3,Software Developer
+B.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, TensorFlow",None,9.0,3.0,7,AI Engineer
+B.E,Computer Science,"Git, Java, MongoDB, Python",None,7.41,1.0,4,Software Developer
+BCA,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, React, SQL",None,8.35,0.0,2,DevOps Engineer
+M.Tech,Data Science,"Machine Learning, PHP, Python, SQL",None,7.92,3.0,3,Data Scientist
+B.Tech,Information Technology,"C++, Deep Learning, Docker, Machine Learning, Python, TensorFlow",None,8.68,2.0,6,AI Engineer
+B.Tech,Computer Science,"Linux, Machine Learning, Python, TensorFlow",PMP,8.54,2.0,5,AI Engineer
+MCA,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",Google Cloud,7.83,0.0,3,DevOps Engineer
+B.Tech,Data Science,"AWS, C++, Deep Learning, Machine Learning, Node.js, Python, TensorFlow",Google Cloud,8.21,2.0,2,AI Engineer
+M.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, React, TensorFlow",Google Cloud,7.55,1.0,1,Cloud Engineer
+B.Tech,Data Science,"Git, Java, MongoDB, Python, SQL",Cisco,8.57,3.0,2,Backend Developer
+BCA,Computer Science,"AWS, Azure, C++, Kubernetes, Linux, MongoDB",None,6.84,0.0,1,Cloud Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Java, Kubernetes, Linux, PHP",AWS,8.59,2.0,2,Cloud Engineer
+B.Tech,Data Science,"Git, Kubernetes, Linux, Python",Cisco,7.5,2.0,3,DevOps Engineer
+M.Tech,Information Technology,"Git, JavaScript, PHP, React, SQL",None,9.28,1.0,4,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Linux, Python",Cisco,7.81,2.0,3,DevOps Engineer
+MCA,Data Science,"AWS, Docker, JavaScript, Kubernetes, Linux, MongoDB",Cisco,8.47,0.0,2,Cloud Engineer
+MCA,Data Science,"C++, Java, Machine Learning, SQL",Azure,7.94,0.0,2,Software Developer
+M.Tech,Data Science,"Deep Learning, Docker, Machine Learning, Python, TensorFlow",AWS,7.99,1.0,7,AI Engineer
+MCA,Information Technology,"AWS, Azure, Docker, Java, Kubernetes, Linux",AWS,7.96,2.0,4,DevOps Engineer
+M.Tech,Data Science,"AWS, Docker, Java, Kubernetes, Linux, React",Google Cloud,7.48,2.0,3,Cloud Engineer
+MCA,Information Technology,"AWS, Azure, Linux",AWS,8.15,0.0,3,Cloud Engineer
+MCA,Data Science,"Docker, Git, Java, MongoDB, Node.js, SQL, TensorFlow",None,7.56,2.0,3,Backend Developer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",Cisco,8.8,2.0,2,Data Scientist
+B.Tech,Computer Science,"AWS, Docker, Git, Kubernetes, Linux",Azure,7.86,1.0,3,DevOps Engineer
+B.Tech,Information Technology,"Azure, C++, Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.21,2.0,6,Data Scientist
+B.Tech,Electronics,"C++, Git, Java, JavaScript, Kubernetes, Python",None,7.67,1.0,1,Software Developer
+M.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux",,8.26,2.0,2,Cloud Engineer
+B.Tech,Information Technology,"AWS, Deep Learning, Machine Learning, Python, React, SQL",None,8.25,2.0,7,Data Scientist
+BCA,Electronics,"C++, Deep Learning, Git, Java, JavaScript, Python",None,7.32,0.0,4,Software Developer
+B.Tech,Information Technology,"Git, Java, Machine Learning, MongoDB, Node.js, SQL",None,7.88,1.0,3,Backend Developer
+B.Tech,Computer Science,"C++, Java, JavaScript, SQL",Azure,7.4,0.0,4,Software Developer
+BCA,Computer Science,"Git, JavaScript, Python, SQL",None,8.66,0.0,4,Software Developer
+M.Tech,Electronics,"Machine Learning, Python, SQL, TensorFlow",None,8.14,3.0,3,Data Scientist
+B.Tech,Information Technology,"Deep Learning, Git, Java, JavaScript, MongoDB, Node.js, Python, SQL",Azure,8.41,3.0,3,Backend Developer
+B.Tech,Data Science,"Azure, Docker, Linux",Azure,7.89,3.0,3,Cloud Engineer
+B.Sc,Computer Science,"Git, Java, Node.js, Python, SQL",AWS,7.73,1.0,2,Backend Developer
+B.Tech,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, TensorFlow",AWS,7.53,2.0,4,DevOps Engineer
+B.Tech,Computer Science,"Git, Java, Linux, MongoDB, Node.js, SQL, TensorFlow",,7.69,1.0,1,Backend Developer
+B.Tech,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",Google Cloud,,2.0,5,Data Scientist
+B.Tech,Electronics,"Git, Java, Node.js, Python, SQL",None,6.65,1.0,1,Backend Developer
+B.Tech,Data Science,"Git, JavaScript, PHP, React",None,6.79,0.0,4,Frontend Developer
+B.E,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux, Python",Cisco,7.34,3.0,3,DevOps Engineer
+M.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, TensorFlow",None,9.14,3.0,5,AI Engineer
+BCA,Data Science,"JavaScript, Machine Learning, PHP, Python, SQL, TensorFlow",Google Cloud,7.82,1.0,2,Data Scientist
+B.Tech,Computer Science,"Kubernetes, Linux",Azure,8.24,0.0,2,Cloud Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes",Google Cloud,8.45,0.0,4,Cloud Engineer
+BCA,Computer Science,"JavaScript, React",None,7.1,1.0,3,Frontend Developer
+B.E,Electronics,"Azure, Docker, Git, Kubernetes, Linux, Python, SQL",Azure,8.29,0.0,2,DevOps Engineer
+MCA,Computer Science,"Docker, Git, Java, Kubernetes, Linux, Python, SQL",PMP,8.82,1.0,2,DevOps Engineer
+BCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, Python",AWS,8.1,2.0,3,DevOps Engineer
+B.Tech,Computer Science,"AWS, Git, JavaScript, Kubernetes, Python, SQL",None,6.38,0.0,5,Software Developer
+B.Tech,Data Science,"Deep Learning, Linux, Machine Learning, PHP, Python, TensorFlow",AWS,8.03,1.0,4,AI Engineer
+B.Tech,Information Technology,"Java, MongoDB, Node.js, Python, SQL",Azure,6.71,2.0,4,Backend Developer
+M.Tech,Information Technology,"Deep Learning, Linux, Machine Learning, Python, React, SQL, TensorFlow",Google Cloud,8.0,2.0,5,Data Scientist
+B.Tech,Information Technology,"Azure, Git, JavaScript, Node.js, Python, SQL",None,7.61,1.0,2,Backend Developer
+M.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",None,7.88,3.0,4,AI Engineer
+M.Tech,Information Technology,"Deep Learning, Machine Learning, Node.js, Python, SQL, TensorFlow",None,8.48,1.0,3,Data Scientist
+B.E,Computer Science,"AWS, Azure, Kubernetes",Google Cloud,8.6,1.0,3,Cloud Engineer
+M.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Python",AWS,7.73,1.0,3,DevOps Engineer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, React",PMP,8.33,2.0,4,DevOps Engineer
+B.Tech,Computer Science,"AWS, Docker, Git, Kubernetes, Linux, Node.js, React",Azure,8.42,3.0,2,DevOps Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, TensorFlow",None,7.5,1.0,1,Cloud Engineer
+M.Tech,Information Technology,"Git, JavaScript, Machine Learning, Node.js, PHP",Google Cloud,7.07,1.0,6,Frontend Developer
+B.Sc,Computer Science,"AWS, C++, Git, JavaScript, Python, React",,,2.0,4,Software Developer
+B.Sc,Data Science,"Deep Learning, Git, MongoDB, Node.js, SQL",None,7.4,2.0,2,Backend Developer
+MCA,Data Science,"Java, Python, SQL",None,6.59,2.0,3,Backend Developer
+BCA,Computer Science,"Git, JavaScript, MongoDB, Node.js",None,7.41,1.0,7,Frontend Developer
+B.E,Data Science,"C++, Git, JavaScript, MongoDB, SQL",PMP,6.79,,1,Backend Developer
+M.Tech,Data Science,"Docker, Git, JavaScript, Linux",AWS,7.17,1.0,2,DevOps Engineer
+M.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",PMP,8.65,3.0,2,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux, Python",Google Cloud,8.96,2.0,3,DevOps Engineer
+MBA,Information Technology,"AWS, Kubernetes, Machine Learning, Python, SQL",AWS,7.86,3.0,4,Data Scientist
+B.Tech,Computer Science,"AWS, Docker, Linux, React",Google Cloud,6.75,1.0,4,Cloud Engineer
+MCA,Computer Science,"Docker, Git, Kubernetes, Linux, PHP",Cisco,7.97,2.0,2,DevOps Engineer
+B.Tech,Information Technology,"Azure, C++, Docker, Kubernetes, Linux, Python, SQL",AWS,8.12,2.0,4,DevOps Engineer
+B.Tech,Computer Science,"AWS, Java, MongoDB, Python",None,8.0,3.0,1,Backend Developer
+MCA,Information Technology,"Machine Learning, Python, TensorFlow",PMP,8.4,2.0,4,Data Scientist
+B.Tech,Computer Science,"Deep Learning, Java, Node.js, Python, SQL",Azure,7.21,1.0,2,Backend Developer
+M.Tech,Information Technology,"AWS, Azure, C++, Docker, Git, Linux",AWS,8.92,3.0,1,Cloud Engineer
+BCA,Electronics,"AWS, Deep Learning, Docker, Git, Kubernetes, Linux, Python",Cisco,7.01,2.0,3,DevOps Engineer
+MCA,Information Technology,"AWS, Deep Learning, Docker, Machine Learning, Python, SQL, TensorFlow",AWS,6.97,,4,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, MongoDB",AWS,7.81,2.0,2,Cloud Engineer
+MCA,Computer Science,"Deep Learning, Git, Java, Python, SQL",,7.94,3.0,2,Backend Developer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.18,2.0,3,AI Engineer
+B.E,Computer Science,"AWS, Azure, C++, Linux, React",Azure,7.83,0.0,4,Cloud Engineer
+MBA,Information Technology,"Deep Learning, Docker, Machine Learning, Python, SQL, TensorFlow",Azure,8.14,2.0,1,Data Scientist
+B.Tech,Computer Science,"Azure, C++, Git, Java, Node.js, Python, SQL",Google Cloud,6.93,1.0,2,Backend Developer
+MCA,Computer Science,"AWS, Azure, Kubernetes, Linux",Azure,8.72,1.0,2,Cloud Engineer
+B.Tech,Computer Science,"JavaScript, Machine Learning, Python, SQL",,9.21,2.0,7,Data Scientist
+M.Tech,Computer Science,"Deep Learning, JavaScript, Machine Learning, Python, React, TensorFlow",AWS,8.33,3.0,4,AI Engineer
+B.E,Data Science,"Azure, Git, Java, MongoDB, SQL",Azure,6.65,2.0,3,Backend Developer
+M.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",Cisco,7.23,3.0,1,DevOps Engineer
+B.Tech,Information Technology,"JavaScript, Node.js, React",PMP,8.24,1.0,8,Frontend Developer
+B.Tech,Data Science,"Git, Java, JavaScript, MongoDB, Python, SQL",AWS,6.75,0.0,3,Backend Developer
+B.E,Computer Science,"C++, Git, Java, SQL",AWS,,3.0,1,Software Developer
+M.Tech,Computer Science,"AWS, Azure, Java, Kubernetes, Linux, Machine Learning",Azure,7.55,,4,Cloud Engineer
+M.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux",Azure,7.62,,2,Cloud Engineer
+M.Tech,Data Science,"Java, MongoDB, Node.js, SQL",Azure,,2.0,2,Backend Developer
+M.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux, Python",Google Cloud,7.83,1.0,2,DevOps Engineer
+B.Tech,Electronics,"Azure, Docker, Git, Kubernetes, Linux, Machine Learning, Python",AWS,7.7,2.0,2,DevOps Engineer
+BCA,Information Technology,"C++, Deep Learning, Git, Java",None,7.45,2.0,1,Software Developer
+B.Sc,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.08,3.0,5,Data Scientist
+M.Tech,Electronics,"C++, Deep Learning, Linux, Node.js, Python",Azure,8.3,2.0,5,AI Engineer
+BCA,Computer Science,"Docker, Kubernetes, Machine Learning, Python, SQL",AWS,8.81,3.0,5,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Python, TensorFlow",Google Cloud,7.79,1.0,2,DevOps Engineer
+B.Tech,Electronics,"Git, Java, MongoDB, Node.js, Python, SQL",Azure,8.47,1.0,2,Backend Developer
+MCA,Computer Science,"AWS, Deep Learning, Docker, Git, Kubernetes, Linux, Python",None,7.43,2.0,1,DevOps Engineer
+MCA,Information Technology,"Git, Java, Node.js, Python, SQL",AWS,6.83,0.0,3,Backend Developer
+B.Tech,Information Technology,"AWS, Git, Java, JavaScript, Python, SQL",None,6.57,0.0,1,Software Developer
+B.Tech,Data Science,"Azure, Deep Learning, Machine Learning, Python, SQL",None,9.21,2.0,6,Data Scientist
+BCA,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, Python",Azure,7.7,1.0,3,DevOps Engineer
+B.Sc,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, React",Azure,8.08,1.0,3,Cloud Engineer
+B.Sc,Data Science,"AWS, Deep Learning, Kubernetes, Machine Learning, Python, SQL, TensorFlow",AWS,6.79,3.0,2,Data Scientist
+MCA,Computer Science,"AWS, Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",Google Cloud,7.74,2.0,3,Data Scientist
+B.Tech,Data Science,"AWS, Deep Learning, Linux, Machine Learning, Python, SQL, TensorFlow",None,8.33,1.0,6,Data Scientist
+B.E,Information Technology,"C++, Git, Java, JavaScript, Python, SQL, TensorFlow",None,8.42,1.0,2,Software Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.79,1.0,4,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes",Cisco,6.97,2.0,2,Cloud Engineer
+M.Tech,Data Science,"Azure, Docker, Git, Linux, Machine Learning, Node.js, Python",PMP,7.22,0.0,3,DevOps Engineer
+B.Tech,Computer Science,"AWS, Azure, Docker, Linux",Google Cloud,7.83,2.0,1,Cloud Engineer
+M.Tech,Computer Science,"AWS, Azure, Kubernetes, Linux, TensorFlow",Google Cloud,7.79,1.0,3,Cloud Engineer
+BCA,Computer Science,"C++, Deep Learning, Git, Java, JavaScript, Linux, SQL",Google Cloud,7.26,2.0,4,Software Developer
+M.Tech,Electronics,"Git, JavaScript, Kubernetes, MongoDB, Node.js, SQL",AWS,6.11,3.0,2,Backend Developer
+M.Tech,Information Technology,"C++, Deep Learning, Java, Machine Learning, Python, TensorFlow",AWS,7.79,3.0,1,AI Engineer
+B.Tech,Information Technology,"Git, Java, Machine Learning, MongoDB, Python, SQL",None,7.34,1.0,1,Backend Developer
+M.Tech,Computer Science,"C++, Deep Learning, Docker, JavaScript, Machine Learning, Python, TensorFlow",None,8.1,2.0,5,AI Engineer
+M.Tech,Computer Science,"Git, Java, Kubernetes, MongoDB, Python, SQL",Google Cloud,7.24,1.0,3,Backend Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",Google Cloud,9.39,2.0,9,AI Engineer
+B.Tech,Electronics,"AWS, Docker, Linux",Google Cloud,9.66,1.0,2,Cloud Engineer
+BCA,Information Technology,"Git, Java, JavaScript, Linux, Node.js",AWS,8.53,1.0,2,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Deep Learning, Kubernetes, Linux, Python",Azure,7.84,2.0,4,DevOps Engineer
+BCA,Computer Science,"Git, JavaScript, Kubernetes, MongoDB, Node.js, React",Google Cloud,6.89,1.0,2,Frontend Developer
+B.Tech,Computer Science,"C++, Docker, Git, Python, SQL",AWS,5.18,3.0,4,Software Developer
+BCA,Data Science,"Git, JavaScript, Kubernetes, Node.js, React, TensorFlow",None,8.35,2.0,4,Frontend Developer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, React, TensorFlow",None,6.84,3.0,3,AI Engineer
+M.Tech,Electronics,"AWS, Machine Learning, Node.js, Python, React",PMP,7.75,3.0,1,Data Scientist
+B.E,Information Technology,"AWS, Azure, Git, Kubernetes, Linux, Machine Learning",AWS,9.27,1.0,3,Cloud Engineer
+MCA,Computer Science,"Java, JavaScript, Python",None,6.24,1.0,1,Software Developer
+BCA,Computer Science,"Git, JavaScript, MongoDB, PHP",None,6.44,2.0,1,Frontend Developer
+B.E,Computer Science,"Azure, Machine Learning, Python, SQL, TensorFlow",Azure,8.66,1.0,7,Data Scientist
+BCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, MongoDB, React",Azure,7.32,2.0,3,DevOps Engineer
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",Azure,7.59,3.0,2,DevOps Engineer
+M.Tech,Computer Science,"AWS, Deep Learning, Linux, Machine Learning, Python, TensorFlow",AWS,8.69,1.0,9,AI Engineer
+B.Tech,Computer Science,"Java, JavaScript, Python, SQL",None,8.82,1.0,1,Software Developer
+M.Tech,Computer Science,"C++, Deep Learning, Docker, Machine Learning, Python, TensorFlow",PMP,7.52,2.0,3,AI Engineer
+B.Sc,Data Science,"Git, Python",Google Cloud,8.62,1.0,1,Software Developer
+B.Tech,Data Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Machine Learning, Python",AWS,,2.0,2,DevOps Engineer
+MCA,Computer Science,"AWS, Azure, Docker, Java, Kubernetes, Linux",Google Cloud,7.57,2.0,1,Cloud Engineer
+BCA,Electronics,"Git, Java, MongoDB, Python",,8.37,3.0,4,Backend Developer
+B.Tech,Data Science,"AWS, Docker, Git, Kubernetes, Python",Azure,,1.0,1,DevOps Engineer
+B.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL",Azure,8.39,1.0,8,Data Scientist
+M.Tech,Information Technology,"AWS, Azure, Deep Learning, Python, TensorFlow",AWS,8.21,2.0,1,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, C++, Docker, Kubernetes, Linux",AWS,7.48,2.0,3,Cloud Engineer
+B.Sc,Data Science,"C++, Deep Learning, JavaScript, Machine Learning, Node.js, TensorFlow",None,8.82,2.0,5,AI Engineer
+BCA,Information Technology,"AWS, Azure, Deep Learning, Docker, Git, Kubernetes, Linux, Python",Azure,7.97,0.0,2,DevOps Engineer
+MCA,Computer Science,"Git, Java, MongoDB, Node.js, SQL",AWS,7.82,2.0,2,Backend Developer
+B.Tech,Computer Science,"C++, Git, Java, Python, TensorFlow",None,7.56,1.0,5,Software Developer
+B.Tech,Information Technology,"Azure, C++, Git, JavaScript, React",Cisco,7.84,0.0,6,Frontend Developer
+M.Tech,Computer Science,"AWS, C++, Deep Learning, Machine Learning, Python, TensorFlow",AWS,7.96,2.0,3,AI Engineer
+MCA,Information Technology,"C++, Deep Learning, Kubernetes, Machine Learning, PHP, Python, TensorFlow",Azure,7.83,3.0,5,AI Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, Python",AWS,8.12,0.0,2,DevOps Engineer
+B.Tech,Data Science,"Deep Learning, Machine Learning, Python, TensorFlow",Azure,9.0,1.0,7,AI Engineer
+MCA,Electronics,"AWS, Azure, Docker, Linux",Cisco,7.52,1.0,2,Cloud Engineer
+MCA,Data Science,"Git, JavaScript, React",None,7.42,1.0,2,Frontend Developer
+M.Tech,Information Technology,"C++, Deep Learning, Git, Java, Python",None,6.9,3.0,3,Software Developer
+M.Tech,Information Technology,"Azure, C++, Deep Learning, MongoDB, Python",AWS,8.87,3.0,7,AI Engineer
+B.Tech,Computer Science,"AWS, Docker, SQL, TensorFlow",AWS,7.67,1.0,3,Cloud Engineer
+BCA,Data Science,"AWS, Azure, Kubernetes",Azure,7.34,2.0,2,Cloud Engineer
+B.Sc,Computer Science,"Machine Learning, Python, SQL, TensorFlow",AWS,8.39,1.0,1,Data Scientist
+B.Tech,Electronics,"Git, JavaScript, React",Google Cloud,7.33,1.0,6,Frontend Developer
+BCA,Computer Science,"Git, JavaScript, Machine Learning, React",Google Cloud,6.48,1.0,4,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Java, Kubernetes, Linux, Node.js",Azure,7.97,2.0,2,Cloud Engineer
+B.Tech,Computer Science,"Git, Machine Learning, PHP, Python, TensorFlow",Azure,8.65,2.0,6,Data Scientist
+MCA,Information Technology,"AWS, Azure, Kubernetes, Linux",AWS,7.29,0.0,2,Cloud Engineer
+B.Tech,Data Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",PMP,7.51,1.0,5,AI Engineer
+B.Sc,Information Technology,"Machine Learning, Node.js, Python, SQL, TensorFlow",,8.62,3.0,5,Data Scientist
+B.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux",Google Cloud,8.53,1.0,1,Cloud Engineer
+B.E,Computer Science,"Deep Learning, Git, Java, JavaScript, PHP, Python, SQL",AWS,7.92,0.0,1,Software Developer
+B.Tech,Information Technology,"Azure, Git, Java, React, SQL",Cisco,7.13,2.0,2,Software Developer
+B.Tech,Electronics,"C++, Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",None,7.46,1.0,6,AI Engineer
+B.Tech,Information Technology,"C++, Deep Learning, Linux, Machine Learning, Node.js, Python, TensorFlow",Azure,7.9,2.0,1,AI Engineer
+B.E,Computer Science,"C++, Deep Learning, Machine Learning, TensorFlow",,8.72,1.0,1,AI Engineer
+BCA,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Google Cloud,8.38,3.0,2,Data Scientist
+B.Tech,Electronics,"AWS, Docker, Git, Linux, Python",Azure,8.01,1.0,3,DevOps Engineer
+B.Tech,Computer Science,"Git, MongoDB, Node.js, SQL",None,8.59,0.0,2,Backend Developer
+B.Tech,Information Technology,"Java, Kubernetes, MongoDB, Node.js, SQL",None,8.58,1.0,1,Backend Developer
+MCA,Information Technology,"C++, Git, Java, JavaScript, MongoDB, Python",AWS,8.28,,2,Software Developer
+BCA,Electronics,"Docker, Linux",AWS,8.66,3.0,4,Cloud Engineer
+B.Sc,Information Technology,"AWS, Docker, Git, Kubernetes, Linux, React, TensorFlow",AWS,7.77,,3,DevOps Engineer
+MCA,Computer Science,"C++, Deep Learning, JavaScript, Machine Learning, MongoDB, Python, TensorFlow",Google Cloud,7.17,2.0,1,AI Engineer
+B.Sc,Electronics,"C++, Deep Learning, Linux, Machine Learning, Python, TensorFlow",Cisco,8.28,3.0,4,AI Engineer
+M.Tech,Computer Science,"C++, Linux, Machine Learning, Python, TensorFlow",AWS,8.34,3.0,6,AI Engineer
+B.Tech,Data Science,"Git, Java, JavaScript, Python, SQL",None,,0.0,1,Software Developer
+BCA,Computer Science,"AWS, Azure, Docker, Git, Linux, Python",Azure,9.04,0.0,1,Cloud Engineer
+B.Tech,Electronics,"JavaScript, PHP, React",None,6.95,2.0,2,Frontend Developer
+B.E,Electronics,"Git, Java, JavaScript, Linux, Python, SQL",AWS,7.18,3.0,3,Software Developer
+B.E,Computer Science,"AWS, JavaScript, PHP, React",None,7.27,2.0,3,Frontend Developer
+B.Tech,Computer Science,"AWS, Deep Learning, JavaScript, Machine Learning, MongoDB, Python, SQL",AWS,8.22,2.0,4,Data Scientist
+B.Tech,Electronics,"C++, Deep Learning, Docker, Git, Java, JavaScript, Python, SQL",Google Cloud,7.23,0.0,2,Software Developer
+B.Tech,Information Technology,"C++, Git, Java, JavaScript, SQL",Cisco,8.48,1.0,2,Software Developer
+BCA,Data Science,"Azure, Git, Kubernetes, Linux, Python, React",AWS,8.85,0.0,1,DevOps Engineer
+M.Tech,Information Technology,"Deep Learning, Linux, Machine Learning, Python, TensorFlow",PMP,9.01,2.0,4,AI Engineer
+B.Sc,Information Technology,"Git, Java, Node.js, Python, SQL",Cisco,8.88,2.0,1,Backend Developer
+M.Tech,Computer Science,"Azure, Docker, Git, Kubernetes, Linux",AWS,7.39,2.0,2,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, PHP",AWS,7.71,2.0,4,DevOps Engineer
+B.Tech,Computer Science,"Azure, Deep Learning, TensorFlow",AWS,7.08,1.0,5,Cloud Engineer
+M.Tech,Information Technology,"Deep Learning, Linux, Machine Learning, PHP, Python, TensorFlow",Azure,9.2,1.0,3,Data Scientist
+BCA,Information Technology,"AWS, Azure, Linux",AWS,8.35,,1,Cloud Engineer
+BCA,Computer Science,"Git, JavaScript, Machine Learning, PHP, React, TensorFlow",Cisco,7.02,1.0,7,Frontend Developer
+B.Tech,Information Technology,"C++, Git, Java, MongoDB, Node.js, Python, SQL",None,7.49,1.0,3,Backend Developer
+BCA,Electronics,"Node.js, PHP, Python, SQL",Google Cloud,8.9,2.0,2,Backend Developer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, Python, TensorFlow",Azure,8.1,1.0,2,Cloud Engineer
+B.E,Information Technology,"Docker, Git, JavaScript, React",AWS,6.64,1.0,4,Frontend Developer
+B.Tech,Information Technology,"AWS, Git, JavaScript, PHP, React",None,6.95,1.0,5,Frontend Developer
+B.Tech,Electronics,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Azure,8.54,1.0,1,Data Scientist
+B.E,Information Technology,"C++, Deep Learning, Git, Machine Learning, Python, TensorFlow",None,7.65,3.0,4,Data Scientist
+B.Tech,Information Technology,"Azure, C++, Git, Java, Python, SQL",None,8.25,2.0,4,Software Developer
+BCA,Data Science,"Azure, Docker, Git, Kubernetes, Linux",AWS,7.08,3.0,2,DevOps Engineer
+M.Tech,Data Science,"C++, Deep Learning, Python, TensorFlow",Google Cloud,7.8,1.0,3,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.01,0.0,1,Cloud Engineer
+B.Sc,Data Science,"Git, JavaScript, Kubernetes, Node.js, PHP, Python, React",None,7.85,2.0,2,Frontend Developer
+B.Tech,Information Technology,"Git, Java, JavaScript, Node.js, React",None,8.53,2.0,2,Frontend Developer
+BCA,Electronics,"C++, Git, Java, JavaScript, MongoDB, Python, React, SQL",None,,2.0,6,Software Developer
+M.Tech,Computer Science,"Git, Java, Python",Cisco,7.89,1.0,4,Software Developer
+B.Sc,Data Science,"Azure, C++, Git, Java, JavaScript, Python, TensorFlow",None,7.6,1.0,1,Software Developer
+B.Sc,Computer Science,"Git, JavaScript, Kubernetes, TensorFlow",PMP,7.53,3.0,3,Frontend Developer
+B.Tech,Data Science,"Deep Learning, Machine Learning, Python, TensorFlow",None,6.98,2.0,9,AI Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, Python, SQL",Azure,7.84,0.0,4,Cloud Engineer
+B.Sc,Computer Science,"C++, Docker, JavaScript, Node.js, React",Cisco,6.63,3.0,4,Frontend Developer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Python, React",Google Cloud,8.44,2.0,2,DevOps Engineer
+MBA,Information Technology,"AWS, C++, Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,7.87,2.0,4,Data Scientist
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.55,1.0,4,AI Engineer
+B.Sc,Computer Science,"JavaScript, PHP",AWS,8.45,1.0,2,Frontend Developer
+BCA,Computer Science,"AWS, Java, MongoDB, Node.js, Python, SQL",Azure,7.71,0.0,4,Backend Developer
+BCA,Computer Science,"Git, JavaScript, Node.js, React",Azure,7.18,1.0,4,Frontend Developer
+MCA,Electronics,"Git, JavaScript, PHP, React",AWS,7.54,1.0,5,Frontend Developer
+MCA,Information Technology,"Git, JavaScript, React",None,8.47,2.0,3,Frontend Developer
+BCA,Computer Science,"JavaScript, Kubernetes, PHP, Python, React",,6.3,2.0,4,Frontend Developer
+B.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Node.js, Python, TensorFlow",None,7.67,2.0,2,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, JavaScript, Linux, Python",AWS,9.4,1.0,4,Cloud Engineer
+MCA,Electronics,"Docker, Git, Java, MongoDB, Node.js, Python, SQL, TensorFlow",None,6.81,1.0,2,Backend Developer
+B.Sc,Computer Science,"Git, Java, Kubernetes, MongoDB, React, SQL",Azure,7.45,2.0,2,Backend Developer
+B.Tech,Information Technology,"Java, MongoDB, Python, SQL",None,7.22,3.0,3,Backend Developer
+M.Tech,Data Science,"C++, Deep Learning, Git, Linux, Machine Learning, Python, TensorFlow",AWS,8.18,1.0,2,AI Engineer
+B.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux, PHP, TensorFlow",PMP,8.38,1.0,2,DevOps Engineer
+M.Tech,Data Science,"AWS, Deep Learning, Java, Machine Learning, Python, SQL, TensorFlow",Azure,7.97,1.0,4,Data Scientist
+B.Tech,Electronics,"Docker, Git, Kubernetes, Linux",Cisco,7.94,1.0,4,DevOps Engineer
+M.Tech,Computer Science,"Machine Learning, Python, SQL, TensorFlow",AWS,8.35,1.0,7,Data Scientist
+B.Tech,Computer Science,"Docker, Git, Java, JavaScript, React",None,7.65,2.0,5,Frontend Developer
+BCA,Computer Science,"C++, Git, Java, JavaScript, PHP, Python, SQL",None,7.74,0.0,3,Software Developer
+B.Tech,Information Technology,"Azure, Machine Learning, Node.js, Python, SQL",,8.27,2.0,5,Data Scientist
+B.Tech,Computer Science,"Git, Java, Python",None,6.96,2.0,3,Backend Developer
+B.Tech,Computer Science,"Azure, Docker, Kubernetes, Linux, Python, TensorFlow",AWS,6.94,1.0,2,DevOps Engineer
+M.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",AWS,7.53,2.0,3,DevOps Engineer
+M.Tech,Information Technology,"AWS, Docker, Kubernetes, Linux, Python",Azure,7.58,1.0,2,DevOps Engineer
+BCA,Computer Science,"Git, Java, MongoDB, Python, SQL",None,7.97,1.0,3,Backend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Linux",Azure,8.74,3.0,3,Cloud Engineer
+MCA,Computer Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,,1.0,4,Data Scientist
+B.Tech,Information Technology,"Azure, C++, Python, SQL, TensorFlow",Cisco,7.78,3.0,5,AI Engineer
+B.Tech,Computer Science,"Git, Java, MongoDB, SQL",AWS,7.5,0.0,2,Backend Developer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, PHP",Google Cloud,7.6,1.0,3,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, Deep Learning, Linux",Google Cloud,7.27,1.0,3,Cloud Engineer
+M.Tech,Information Technology,"C++, Deep Learning, Linux, Machine Learning, Python, SQL, TensorFlow",None,9.0,3.0,1,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, TensorFlow",AWS,8.19,2.0,4,Cloud Engineer
+MCA,Data Science,"C++, Deep Learning, Docker, Machine Learning, PHP, Python, TensorFlow",Cisco,,3.0,3,AI Engineer
+B.Sc,Information Technology,"C++, Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",None,8.59,1.0,6,AI Engineer
+BCA,Computer Science,"Git, JavaScript, Node.js",None,7.46,1.0,3,Frontend Developer
+M.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, Machine Learning",Google Cloud,7.64,2.0,2,Cloud Engineer
+M.Tech,Electronics,"AWS, Deep Learning, Kubernetes, Machine Learning, MongoDB, Python, SQL",Google Cloud,8.43,1.0,4,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, Kubernetes, Machine Learning",AWS,9.44,2.0,4,Cloud Engineer
+M.Tech,Computer Science,"Deep Learning, Git, Machine Learning, Python, SQL, TensorFlow",Google Cloud,8.49,2.0,3,Data Scientist
+B.Sc,Data Science,"C++, Deep Learning, Java, Machine Learning, Python, TensorFlow",None,8.84,2.0,5,AI Engineer
+B.E,Information Technology,"AWS, Azure, Docker, Kubernetes",AWS,8.27,1.0,2,Cloud Engineer
+B.Sc,Data Science,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.33,2.0,3,Data Scientist
+B.Sc,Information Technology,"Git, Java, Linux, Machine Learning, Node.js, Python, SQL",AWS,7.06,1.0,4,Backend Developer
+BCA,Computer Science,"Azure, Linux, PHP, React",AWS,,1.0,6,Frontend Developer
+B.Tech,Computer Science,"Azure, C++, Machine Learning, Python, TensorFlow",AWS,8.29,2.0,5,AI Engineer
+B.Sc,Computer Science,"Azure, Docker, JavaScript, React",AWS,9.91,1.0,5,Frontend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",None,7.29,0.0,1,Cloud Engineer
+B.Tech,Data Science,"AWS, C++, Git, Java, Machine Learning, Python",AWS,6.2,2.0,3,Software Developer
+B.Tech,Computer Science,"AWS, Docker, Linux",Azure,7.21,2.0,2,Cloud Engineer
+B.Sc,Data Science,"JavaScript, Kubernetes, Node.js, PHP, React",None,7.36,,3,Frontend Developer
+BCA,Data Science,"C++, Java, JavaScript, Python, SQL, TensorFlow",None,7.06,1.0,3,Software Developer
+B.E,Electronics,"AWS, Azure, Docker, Git, JavaScript, Linux, Python",Azure,8.37,2.0,2,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux",AWS,6.17,1.0,1,Cloud Engineer
+B.Tech,Computer Science,"AWS, Azure, C++, Docker, Git, Kubernetes, Linux, MongoDB, Python",Azure,8.24,1.0,3,DevOps Engineer
+MCA,Electronics,"C++, Deep Learning, JavaScript, Machine Learning, Node.js, Python, TensorFlow",None,8.34,2.0,6,AI Engineer
+B.Tech,Computer Science,"Azure, Git, Java, JavaScript, Python, SQL",AWS,8.23,2.0,5,Backend Developer
+M.Tech,Information Technology,"Deep Learning, Docker, Machine Learning, Python",None,9.1,2.0,3,AI Engineer
+MBA,Computer Science,"C++, Git, Java, JavaScript, React, SQL",AWS,6.97,2.0,1,Software Developer
+BCA,Data Science,"Git, Java, Kubernetes, Node.js, Python, SQL",None,,1.0,3,Backend Developer
+BCA,Electronics,"C++, Git, Java, JavaScript, Node.js, Python",None,8.25,1.0,2,Software Developer
+B.Tech,Information Technology,"Java, JavaScript, Node.js, Python",None,7.61,1.0,3,Backend Developer
+B.Sc,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux",AWS,7.59,0.0,1,DevOps Engineer
+M.Tech,Data Science,"Docker, Git, Java, SQL",None,8.77,3.0,3,Backend Developer
+M.Tech,Information Technology,"AWS, MongoDB, Node.js, Python, React, SQL",Google Cloud,8.89,0.0,5,Backend Developer
+B.Tech,Information Technology,"Git, Java, MongoDB, Python, SQL",None,7.57,1.0,2,Backend Developer
+B.E,Information Technology,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, TensorFlow",AWS,8.74,3.0,3,DevOps Engineer
+MCA,Computer Science,"MongoDB, Python, SQL",Cisco,7.86,1.0,1,Backend Developer
+B.Tech,Computer Science,"Git, MongoDB, Python, TensorFlow",None,,1.0,3,Backend Developer
+B.Sc,Computer Science,"C++, Git, Java, MongoDB, Node.js, SQL",AWS,8.06,2.0,4,Backend Developer
+MCA,Electronics,"C++, Git, Java, JavaScript, Python, SQL",Azure,7.53,,4,Software Developer
+BCA,Computer Science,"JavaScript, PHP, React",AWS,9.37,0.0,3,Frontend Developer
+B.Tech,Information Technology,"AWS, Docker, Git, Linux, PHP",PMP,7.04,2.0,1,DevOps Engineer
+MCA,Computer Science,"Azure, Deep Learning, Git, Machine Learning, Python, TensorFlow",AWS,8.0,1.0,2,Data Scientist
+B.Tech,Data Science,"Git, Linux, MongoDB, Node.js, Python, SQL",None,7.46,0.0,2,Backend Developer
+B.Tech,Data Science,"Azure, Git, JavaScript, MongoDB, Node.js, PHP, React",Google Cloud,7.23,2.0,4,Frontend Developer
+B.Sc,Data Science,"C++, Deep Learning, Machine Learning, Python, SQL, TensorFlow",Google Cloud,8.55,,4,AI Engineer
+B.E,Computer Science,"Azure, C++, Deep Learning, JavaScript, Machine Learning, Python, TensorFlow",None,8.58,1.0,3,AI Engineer
+M.Tech,Electronics,"C++, Deep Learning, Machine Learning, TensorFlow",None,7.95,3.0,7,AI Engineer
+M.Tech,Electronics,"AWS, Azure, Docker, Kubernetes, Linux",Cisco,8.46,2.0,1,Cloud Engineer
+B.Tech,Information Technology,"Deep Learning, JavaScript, Kubernetes, Machine Learning, Python, TensorFlow",None,8.18,1.0,1,AI Engineer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",None,7.04,2.0,3,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",Cisco,7.28,0.0,4,DevOps Engineer
+B.Sc,Electronics,"Git, Java, MongoDB, Node.js, Python",None,6.71,2.0,2,Backend Developer
+M.Tech,Computer Science,"AWS, Deep Learning, Kubernetes, Machine Learning, Python, SQL, TensorFlow",Azure,6.96,2.0,6,Data Scientist
+M.Tech,Computer Science,"AWS, Azure, Docker, Linux",AWS,8.22,1.0,3,Cloud Engineer
+MCA,Information Technology,"Git, Java, MongoDB, Python, SQL",,7.7,1.0,2,Backend Developer
+B.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,8.06,2.0,6,Data Scientist
+M.Tech,Data Science,"Deep Learning, Machine Learning, Node.js, PHP, Python",Google Cloud,7.85,1.0,4,AI Engineer
+MCA,Information Technology,"C++, Deep Learning, Machine Learning, MongoDB, Node.js, Python",Google Cloud,7.17,3.0,7,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Java, JavaScript, Kubernetes, Python",AWS,8.41,1.0,3,DevOps Engineer
+B.Sc,Data Science,"Machine Learning, Python",None,7.69,2.0,5,Data Scientist
+MCA,Data Science,"Deep Learning, Java, Linux, MongoDB, Node.js, Python, SQL",None,7.18,1.0,1,Backend Developer
+MCA,Computer Science,"C++, Git, JavaScript, React",Google Cloud,7.93,2.0,7,Frontend Developer
+BCA,Computer Science,"Git, Java, JavaScript, MongoDB, Node.js, Python, SQL",Azure,9.27,1.0,3,Software Developer
+MCA,Information Technology,"C++, Deep Learning, Machine Learning, Python, TensorFlow",None,9.15,3.0,4,AI Engineer
+B.Tech,Data Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,8.73,3.0,3,Data Scientist
+BCA,Data Science,"AWS, Git, Java, MongoDB, Node.js",None,7.18,1.0,3,Backend Developer
+M.Tech,Information Technology,"Deep Learning, JavaScript, Machine Learning, Python, React, TensorFlow",AWS,7.71,1.0,4,AI Engineer
+BCA,Information Technology,"C++, Git, JavaScript, MongoDB, Python, SQL",None,7.87,2.0,3,Software Developer
+B.Tech,Data Science,"AWS, Azure, C++, Docker, Kubernetes, Linux",AWS,7.65,2.0,2,DevOps Engineer
+B.Tech,Computer Science,"AWS, Azure, Deep Learning, Docker, Kubernetes, Linux",AWS,8.15,1.0,3,Cloud Engineer
+M.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes",Azure,8.26,1.0,2,Cloud Engineer
+MCA,Computer Science,"AWS, C++, Deep Learning, Kubernetes, Machine Learning, Python, SQL, TensorFlow",AWS,8.57,1.0,1,Data Scientist
+MCA,Computer Science,"Docker, Git, Linux",Google Cloud,8.09,2.0,4,DevOps Engineer
+BCA,Computer Science,"Git, Java, MongoDB, Node.js, PHP, SQL",Google Cloud,7.98,2.0,1,Backend Developer
+M.Tech,Computer Science,"Azure, C++, Deep Learning, Machine Learning, Python, TensorFlow",AWS,9.41,3.0,6,AI Engineer
+M.Tech,Computer Science,"AWS, C++, Deep Learning, Machine Learning, Python, React, TensorFlow",Google Cloud,8.37,2.0,5,AI Engineer
+B.Tech,Information Technology,"Docker, Git, Java, Node.js",None,8.28,0.0,2,Backend Developer
+B.Sc,Information Technology,"C++, Deep Learning, Machine Learning, Python, React",Google Cloud,8.04,1.0,3,AI Engineer
+BCA,Data Science,"C++, Deep Learning, Linux, Machine Learning, Python",AWS,7.61,2.0,4,AI Engineer
+MCA,Computer Science,"Azure, Deep Learning, Machine Learning, Python, TensorFlow",None,8.31,3.0,3,AI Engineer
+MCA,Electronics,"Git, Python, SQL",Azure,6.21,2.0,2,Backend Developer
+B.Tech,Computer Science,"Git, Java, JavaScript, Machine Learning, Python, React",None,8.48,1.0,2,Software Developer
+MBA,Computer Science,"Azure, Docker, Git, Linux, Python",AWS,7.69,1.0,2,DevOps Engineer
+B.Sc,Electronics,"Java, JavaScript, Node.js, PHP",PMP,7.85,1.0,3,Frontend Developer
+B.Tech,Data Science,"Git, JavaScript, MongoDB, Node.js, PHP, React",AWS,7.3,1.0,1,Frontend Developer
+MCA,Information Technology,"Git, Java, Python, SQL",PMP,7.37,1.0,2,Software Developer
+MCA,Computer Science,"Azure, Java, Python, SQL",Azure,7.83,2.0,3,Backend Developer
+MCA,Computer Science,"Git, JavaScript, Node.js, React",None,7.22,1.0,1,Frontend Developer
+B.E,Computer Science,"Git, JavaScript, Node.js, PHP, React",None,6.95,0.0,4,Frontend Developer
+M.Tech,Information Technology,"Azure, Deep Learning, Machine Learning, Node.js, Python, SQL",AWS,8.59,2.0,5,Data Scientist
+B.Tech,Computer Science,"Git, JavaScript, Python",Azure,7.41,0.0,5,Software Developer
+M.Tech,Electronics,"AWS, Deep Learning, Machine Learning, MongoDB, Node.js, TensorFlow",Google Cloud,8.11,2.0,7,Data Scientist
+B.Sc,Electronics,"Azure, C++, Docker, Kubernetes, Linux",AWS,7.53,1.0,3,DevOps Engineer
+MCA,Information Technology,"Azure, C++, Git, Java, Linux, Python, SQL",Cisco,7.52,3.0,1,Software Developer
+B.E,Computer Science,"AWS, Azure, Kubernetes, SQL",AWS,7.15,3.0,3,Cloud Engineer
+B.E,Computer Science,"AWS, Azure, Kubernetes, Linux",AWS,7.65,1.0,1,DevOps Engineer
+M.Tech,Computer Science,"AWS, Azure, C++, Docker, Git, Kubernetes",AWS,8.66,1.0,1,DevOps Engineer
+BCA,Information Technology,"AWS, Machine Learning, Python, TensorFlow",None,8.24,2.0,2,Data Scientist
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux, MongoDB, Node.js",Azure,7.9,0.0,3,Cloud Engineer
+B.Tech,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Azure,7.4,1.0,4,AI Engineer
+B.Sc,Computer Science,"JavaScript, React",Google Cloud,6.99,1.0,1,Frontend Developer
+B.E,Electronics,"AWS, Docker, Linux",AWS,7.21,1.0,2,Cloud Engineer
+M.Tech,Electronics,"AWS, Azure, Docker, Linux, MongoDB, SQL",Cisco,7.78,,1,Cloud Engineer
+BCA,Computer Science,"AWS, Azure, Docker, Kubernetes, SQL",AWS,6.88,0.0,2,Cloud Engineer
+B.Tech,Information Technology,"Azure, C++, Git, JavaScript, Linux, SQL",None,7.83,1.0,3,Software Developer
+BCA,Electronics,"C++, Docker, Git, Python, TensorFlow",None,6.94,0.0,1,Software Developer
+M.Tech,Electronics,"AWS, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.61,1.0,4,AI Engineer
+B.Tech,Information Technology,"Git, SQL",AWS,7.42,2.0,2,Software Developer
+MCA,Information Technology,"Java, MongoDB, Node.js, Python",None,7.38,0.0,1,Software Developer
+B.E,Information Technology,"AWS, Azure, Docker, Git, Linux",AWS,,1.0,4,DevOps Engineer
+B.Sc,Data Science,"Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,,3.0,3,AI Engineer
+B.Tech,Computer Science,"Git, JavaScript, Python, SQL",Google Cloud,5.4,0.0,1,Software Developer
+B.Sc,Computer Science,"Azure, Git, Java, Machine Learning, Node.js, SQL",AWS,8.45,3.0,4,Backend Developer
+M.Tech,Computer Science,"Azure, Kubernetes, Linux, Python",PMP,6.94,0.0,3,DevOps Engineer
+B.Sc,Computer Science,"Deep Learning, Machine Learning, SQL",Azure,7.35,2.0,3,Data Scientist
+M.Tech,Information Technology,"AWS, Linux, Machine Learning, MongoDB, Python, SQL",AWS,,3.0,3,Data Scientist
+B.Sc,Computer Science,"Deep Learning, Machine Learning, Node.js, Python, TensorFlow",None,8.64,3.0,5,AI Engineer
+B.Sc,Computer Science,"AWS, Azure, Deep Learning, Machine Learning, PHP, Python, SQL, TensorFlow",AWS,,1.0,3,Data Scientist
+M.Tech,Computer Science,"Docker, Git, JavaScript, Machine Learning, React",None,8.94,3.0,5,Frontend Developer
+B.Tech,Information Technology,"AWS, Azure, Git, Kubernetes, Linux",AWS,8.21,2.0,2,Cloud Engineer
+M.Tech,Computer Science,"C++, Deep Learning, Machine Learning, MongoDB, PHP, Python, TensorFlow",Google Cloud,7.8,3.0,3,AI Engineer
+M.Tech,Computer Science,"Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,7.97,1.0,6,AI Engineer
+MCA,Data Science,"C++, Git, Machine Learning, MongoDB, Node.js, SQL",AWS,7.87,1.0,4,Backend Developer
+B.Tech,Electronics,"Git, Java, JavaScript, MongoDB, Node.js, Python, SQL, TensorFlow",None,7.85,1.0,2,Backend Developer
+B.Tech,Information Technology,"Deep Learning, Kubernetes, Machine Learning, Python, TensorFlow",AWS,,2.0,6,AI Engineer
+MCA,Information Technology,"Git, Java, MongoDB, SQL",Google Cloud,8.81,1.0,1,Backend Developer
+MCA,Computer Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",Google Cloud,8.83,2.0,4,AI Engineer
+M.Tech,Information Technology,"Docker, Git, Java, Node.js, Python, SQL",AWS,7.67,1.0,2,Backend Developer
+MCA,Electronics,"Docker, Kubernetes, Linux, Python",None,9.31,2.0,3,DevOps Engineer
+M.Tech,Information Technology,"C++, Git, Machine Learning, Python, SQL, TensorFlow",None,7.47,1.0,3,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, Java, Kubernetes, Linux, Machine Learning",Azure,7.9,0.0,2,Cloud Engineer
+BCA,Information Technology,"Git, JavaScript, Linux, React",AWS,6.83,2.0,6,Frontend Developer
+BCA,Information Technology,"Git, JavaScript, Node.js, React",AWS,6.28,0.0,5,Frontend Developer
+B.Tech,Electronics,"AWS, Git, Kubernetes, Linux",Google Cloud,7.66,1.0,2,DevOps Engineer
+BCA,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,6.89,0.0,3,Cloud Engineer
+B.Tech,Computer Science,"Java, Kubernetes, MongoDB, SQL",Cisco,8.8,3.0,2,Backend Developer
+M.Tech,Computer Science,"AWS, Azure, C++, Docker, Kubernetes, Linux",Azure,8.03,1.0,2,Cloud Engineer
+MCA,Computer Science,"C++, Deep Learning, Docker, Machine Learning, Python",Google Cloud,8.06,2.0,6,AI Engineer
+M.Tech,Computer Science,"C++, Deep Learning, Machine Learning, PHP, Python, TensorFlow",,8.15,2.0,5,AI Engineer
+B.Tech,Computer Science,"Azure, Deep Learning, Python, TensorFlow",AWS,8.57,2.0,5,AI Engineer
+B.Sc,Computer Science,"Git, Java, JavaScript, Node.js, PHP, Python, React",PMP,7.78,1.0,3,Frontend Developer
+MCA,Data Science,"Deep Learning, Machine Learning, MongoDB, Python, TensorFlow",Azure,,2.0,2,AI Engineer
+B.Sc,Computer Science,"Azure, Git, Java, JavaScript, Python",PMP,7.24,2.0,3,Backend Developer
+B.Tech,Information Technology,"C++, Deep Learning, Git, Machine Learning, Python, TensorFlow",AWS,9.16,2.0,6,AI Engineer
+B.Tech,Information Technology,"Git, JavaScript, Machine Learning, Python, TensorFlow",Google Cloud,7.19,1.0,4,AI Engineer
+MCA,Data Science,"AWS, Git, Java, MongoDB, SQL",None,7.19,1.0,3,Backend Developer
+MBA,Data Science,"Git, Kubernetes, Node.js, React",,6.23,1.0,4,Frontend Developer
+B.Sc,Data Science,"Azure, Git, JavaScript, React, TensorFlow",None,7.63,1.0,5,Frontend Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Node.js, Python, TensorFlow",Azure,8.97,1.0,1,Data Scientist
+B.Sc,Information Technology,"Deep Learning, Machine Learning, Python, TensorFlow",None,8.11,1.0,5,Data Scientist
+M.Tech,Computer Science,"AWS, Azure, Docker, JavaScript, Kubernetes, Linux, Machine Learning",Cisco,7.5,,2,Cloud Engineer
+B.Tech,Data Science,"AWS, Docker, Git, Kubernetes, Linux, Machine Learning, Python",Azure,7.53,1.0,2,DevOps Engineer
+B.Tech,Information Technology,"Git, Java, MongoDB, Python, SQL",AWS,7.73,3.0,3,Backend Developer
+M.Tech,Computer Science,"Git, Java, JavaScript, MongoDB, Node.js, SQL",None,8.0,3.0,2,Backend Developer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, TensorFlow",None,7.79,1.0,2,DevOps Engineer
+B.Tech,Information Technology,"Java, MongoDB, Node.js, Python, SQL",None,9.38,3.0,2,Backend Developer
+MCA,Information Technology,"AWS, Deep Learning, Machine Learning, Python, SQL",Google Cloud,7.12,1.0,4,Data Scientist
+MCA,Data Science,"Azure, Git, Java, JavaScript, Python, SQL",None,7.79,3.0,3,Software Developer
+B.Tech,Electronics,"Git, Java, JavaScript, MongoDB, Python, React, SQL",,7.0,0.0,3,Backend Developer
+MCA,Information Technology,"C++, Git, Java, Python, SQL",None,7.95,0.0,1,Software Developer
+MCA,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux",AWS,7.68,1.0,1,DevOps Engineer
+BCA,Electronics,"Git, JavaScript, Machine Learning, Node.js, PHP, React",AWS,7.46,3.0,3,Frontend Developer
+BCA,Computer Science,"Docker, Git, JavaScript, MongoDB, Node.js, React",Google Cloud,8.53,0.0,7,Frontend Developer
+B.Tech,Information Technology,"Docker, Git, Java, MongoDB, Node.js, Python, SQL",None,9.97,1.0,3,Backend Developer
+BCA,Data Science,"Azure, Deep Learning, Machine Learning, Python, SQL",Azure,7.45,3.0,3,Data Scientist
+B.Tech,Information Technology,"C++, Git, Java, JavaScript, Python, SQL",None,6.78,1.0,3,Software Developer
+B.Tech,Data Science,"Java, SQL",None,8.27,0.0,2,Backend Developer
+BCA,Information Technology,"C++, Linux, Machine Learning, Python, TensorFlow",,7.85,3.0,4,AI Engineer
+B.Tech,Information Technology,"Git, Java, Kubernetes, Node.js, Python, SQL",AWS,6.25,2.0,5,Backend Developer
+B.Tech,Computer Science,"AWS, Azure, Docker, Kubernetes, Linux",AWS,7.35,1.0,3,DevOps Engineer
+B.Tech,Data Science,"AWS, Kubernetes, Linux, Machine Learning, PHP",Cisco,6.37,1.0,3,Cloud Engineer
+B.Tech,Computer Science,"Git, Java, PHP",Azure,8.04,1.0,3,Software Developer
+BCA,Information Technology,"AWS, Azure, Deep Learning, Docker, Git, Kubernetes, Linux, TensorFlow",Azure,7.67,1.0,1,DevOps Engineer
+B.Tech,Electronics,"C++, Deep Learning, Machine Learning, Python, TensorFlow",AWS,8.2,2.0,3,AI Engineer
+B.Tech,Data Science,"Git, Java, Python, SQL",PMP,7.8,1.0,3,Backend Developer
+BCA,Data Science,"JavaScript, Node.js, React",None,7.4,2.0,1,Frontend Developer
+M.Tech,Electronics,"MongoDB, Python, SQL, TensorFlow",Azure,7.73,2.0,4,Data Scientist
+B.Tech,Computer Science,"Java, Node.js, SQL",AWS,8.75,,1,Backend Developer
+B.Tech,Computer Science,"AWS, Machine Learning, PHP, TensorFlow",PMP,9.3,2.0,6,AI Engineer
+M.Tech,Electronics,"Deep Learning, Machine Learning, Python",AWS,9.32,1.0,3,AI Engineer
+B.Sc,Information Technology,"C++, Java, JavaScript, Node.js, Python, SQL",None,7.75,1.0,4,Software Developer
+M.Tech,Information Technology,"C++, Machine Learning, Python, TensorFlow",Google Cloud,7.17,1.0,2,AI Engineer
+MCA,Electronics,"C++, Git, JavaScript, Python",None,6.33,1.0,6,Software Developer
+B.Tech,Data Science,"Docker, Git, Java, MongoDB, Node.js, SQL",AWS,6.0,1.0,3,Backend Developer
+M.Tech,Data Science,"C++, Deep Learning, Machine Learning, Python, TensorFlow",None,7.66,2.0,8,AI Engineer
+B.Tech,Computer Science,"AWS, Deep Learning, Machine Learning, Python, SQL, TensorFlow",None,8.85,2.0,1,Data Scientist
+M.Tech,Information Technology,"Deep Learning, Git, Machine Learning, Python, TensorFlow",None,8.1,1.0,5,AI Engineer
+M.Tech,Computer Science,"Deep Learning, Python, React, TensorFlow",Google Cloud,7.38,3.0,7,AI Engineer
+M.Tech,Computer Science,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, SQL",,7.97,1.0,1,DevOps Engineer
+B.Tech,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux, SQL",Google Cloud,6.93,,2,Cloud Engineer
+BCA,Computer Science,"Git, JavaScript, React",PMP,6.39,1.0,1,Frontend Developer
+MCA,Information Technology,"Azure, Docker, Git, Kubernetes, Linux, Python",Google Cloud,8.62,0.0,2,DevOps Engineer
+B.Sc,Information Technology,"AWS, Azure, Docker, Machine Learning, Python, SQL, TensorFlow",AWS,9.45,1.0,3,Data Scientist
+BCA,Information Technology,"AWS, Azure, Kubernetes, Linux, MongoDB",AWS,7.77,1.0,1,Cloud Engineer
+B.Tech,Information Technology,"Deep Learning, Python, TensorFlow",AWS,8.26,3.0,5,AI Engineer
+B.Tech,Computer Science,"JavaScript, React",None,8.37,0.0,4,Frontend Developer
+B.Tech,Data Science,"AWS, Azure, Docker, Kubernetes, Linux, React",AWS,8.25,2.0,4,Cloud Engineer
+B.Tech,Computer Science,"Git, JavaScript, React",AWS,7.41,1.0,5,Frontend Developer
+MCA,Electronics,"C++, Git, JavaScript, Linux, Machine Learning, SQL",Google Cloud,7.7,,1,Software Developer
+B.Tech,Computer Science,"Docker, Git, Java, Kubernetes, Linux, Python",Cisco,7.79,1.0,2,DevOps Engineer
+BCA,Data Science,"Git, Node.js, Python, SQL",None,8.59,1.0,4,Backend Developer
+MCA,Computer Science,"C++, Docker, SQL",None,7.27,1.0,2,Software Developer
+B.Sc,Data Science,"Git, Python, SQL",Google Cloud,6.62,1.0,1,Backend Developer
+M.Tech,Computer Science,"C++, Deep Learning, Git, Machine Learning, SQL, TensorFlow",Google Cloud,8.62,3.0,3,AI Engineer
+BCA,Information Technology,"Machine Learning, Python, SQL, TensorFlow",Azure,9.53,2.0,2,Data Scientist
+B.Tech,Information Technology,"AWS, Azure, Docker, Git, JavaScript, Kubernetes, Linux, Python",Azure,8.32,2.0,3,DevOps Engineer
+M.Tech,Data Science,"AWS, Deep Learning, Machine Learning, MongoDB, Python",AWS,8.13,2.0,3,Data Scientist
+B.Tech,Data Science,"AWS, Docker, Git, Kubernetes, Python",AWS,8.11,2.0,1,DevOps Engineer
+B.E,Data Science,"AWS, Docker, Kubernetes, Linux, SQL",Azure,7.97,2.0,1,Cloud Engineer
+BCA,Data Science,"Azure, Docker, Git, JavaScript, Python",AWS,7.9,2.0,4,Software Developer
+B.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux, Python",AWS,8.56,0.0,1,DevOps Engineer
+BCA,Electronics,"Git, Java, MongoDB, Node.js, Python, React, SQL",None,6.68,2.0,3,Backend Developer
+B.Tech,Computer Science,"Machine Learning, Python, SQL, TensorFlow",AWS,7.34,2.0,2,Data Scientist
+BCA,Data Science,"AWS, Git, JavaScript, Node.js, React",PMP,8.38,2.0,3,Frontend Developer
+B.Tech,Information Technology,"AWS, C++, Git, Java, Python, TensorFlow",AWS,,1.0,3,Software Developer
+M.Tech,Data Science,"JavaScript, Python, SQL",AWS,6.19,3.0,4,Software Developer
+BCA,Computer Science,"Git, Java, JavaScript, MongoDB, PHP, Python, SQL",None,7.06,0.0,3,Backend Developer
+BCA,Computer Science,"C++, Docker, Git, JavaScript",None,6.92,2.0,1,Software Developer
+BCA,Computer Science,"Docker, Git, Java, JavaScript, Python",None,6.93,0.0,3,Software Developer
+B.Tech,Data Science,"Git, Node.js",Google Cloud,8.16,2.0,3,Backend Developer
+MCA,Information Technology,"Git, Java, Node.js, Python",None,8.54,1.0,3,Backend Developer
+MCA,Computer Science,"Git, MongoDB, Node.js, Python, React, SQL",Azure,8.1,1.0,3,Backend Developer
+MCA,Information Technology,"Azure, Kubernetes, Linux, Python",Cisco,9.14,1.0,5,DevOps Engineer
+B.Sc,Electronics,"Git, JavaScript, Linux, Node.js, React",None,9.36,,5,Frontend Developer
+M.Tech,Data Science,"Java, Machine Learning, MongoDB, Python, SQL",Azure,7.52,3.0,1,Data Scientist
+B.Tech,Data Science,"C++, Git, Java, JavaScript, Linux",None,8.03,2.0,3,Software Developer
+B.Tech,Information Technology,"Deep Learning, Machine Learning, Python, SQL, TensorFlow",AWS,8.64,2.0,6,Data Scientist
+M.Tech,Computer Science,"Deep Learning, Python, SQL, TensorFlow",Azure,8.34,3.0,7,Data Scientist
+B.Tech,Computer Science,"Git, JavaScript, Node.js, PHP, Python, React",None,6.89,3.0,3,Frontend Developer
+B.Tech,Electronics,"AWS, Azure, Docker, Git, Kubernetes, Linux, Node.js",Azure,,3.0,3,Cloud Engineer
+M.Tech,Data Science,"Deep Learning, Kubernetes, Machine Learning, Node.js, Python, SQL, TensorFlow",Cisco,8.62,2.0,3,Data Scientist
+BCA,Computer Science,"Git, JavaScript, Kubernetes, Node.js, PHP, React, TensorFlow",None,8.06,1.0,4,Frontend Developer
